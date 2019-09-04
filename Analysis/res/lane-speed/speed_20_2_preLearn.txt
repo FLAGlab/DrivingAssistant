@@ -1,0 +1,47 @@
+state 0:  ["left","20"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 1:  ["left","25"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 2:  ["left","30"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 3:  ["left","35"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 4:  ["left","40"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 5:  ["left","45"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 6:  ["right","50"]
+ 	priority:1 -> actions: ["overtake","overtake"]
+ 	
+state 7:  ["left","50"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 8:  ["left","55"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 9:  ["left","60"]
+ 	priority:198 -> actions: ["straight","straight"]
+ 	priority:1 -> actions: ["straight"]
+ 	
+state 10:  ["right","60"]
+ 	priority:84 -> actions: ["overtake","overtake","overtake"]
+ 	priority:35 -> actions: ["overtake","overtake","overtake","overtake"]
+ 	priority:29 -> actions: ["overtake","overtake","overtake","overtake","overtake"]
+ 	priority:22 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:11 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:9 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:4 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:2 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake"]
+ 	
+state 11:  []
+ 	priority:1 -> actions: [null]
+ 	

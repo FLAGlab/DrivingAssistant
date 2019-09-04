@@ -1,0 +1,1700 @@
+303,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,straight,0,0,0
+602,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,straight,0,0,0
+901,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,speed up,0,0,0
+1202,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,speed up,0,0,0
+1503,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,60,speed up,0,0,0
+1803,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,60,speed up,0,0,0
+2104,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=0TimeToCollision=0,left,40,60,stop,0,-100,-10
+2404,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,60,speed up,0,0,0
+2705,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,60,straight,0,0,0
+3005,speed=0-(1/4)LimitTimeToCollision=0,speed=0TimeToCollision=0,left,5,60,slow down,0,-100,-10
+3306,speed=0TimeToCollision=0,speed=0TimeToCollision=0,left,0,60,stop,0,-100,-10
+3607,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,60,speed up,0,0,0
+3907,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,5,60,overtake,0,0,0
+4208,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,5,60,overtake,0,0,0
+4508,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,5,60,speed up,0,0,0
+4809,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,10,60,speed up,0,0,0
+5109,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,15,60,overtake,0,0,0
+5410,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,15,60,slow down,0,0,0
+5711,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,10,60,speed up,0,0,0
+6011,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,15,60,speed up,0,0,0
+6312,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,speed up,0,0,0
+6612,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,slow down,0,0,0
+6913,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,speed up,0,0,0
+7213,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,straight,0,0,0
+7514,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,speed up,0,0,0
+7815,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,30,60,overtake,0,0,0
+8115,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,30,60,speed up,0,0,0
+8416,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,35,60,speed up,0,0,0
+8716,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,40,60,overtake,0,0,0
+9017,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,40,60,slow down,0,0,0
+9317,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,35,60,slow down,0,0,0
+9619,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,30,60,slow down,0,0,0
+9920,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,slow down,0,0,0
+10220,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,speed up,0,0,0
+10521,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,slow down,0,0,0
+10821,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,20,60,overtake,0,0,0
+11122,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,20,60,speed up,0,0,0
+11423,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,25,60,speed up,0,0,0
+11723,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,30,60,speed up,0,0,0
+12024,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,60,speed up,0,0,0
+12325,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,10
+12625,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,0.1
+12926,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,19.001
+13227,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,0.28001
+13527,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,27.1037001
+13827,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,0.523046001
+14128,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,40,60,speed up,2,100,34.39333009
+14429,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,45,60,speed up,1,100,10
+14729,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,left,50,60,slow down,1,100,10
+15029,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(1/4)-(3/4)LimitTimeToCollision=1,left,45,60,slow down,1,0,9
+15330,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=0TimeToCollision=0,left,40,60,straight,0,-100,-10
+15631,speed=0TimeToCollision=0,speed=0TimeToCollision=0,left,0,60,slow down,0,-100,-10
+15932,speed=0TimeToCollision=0,speed=0TimeToCollision=0,left,0,60,straight,0,-100,-10
+16232,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,60,speed up,0,0,0
+16533,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,60,speed up,0,0,0
+16833,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,10,60,straight,0,0,0
+17134,speed=0-(1/4)LimitTimeToCollision=0,speed=0TimeToCollision=0,left,10,60,stop,0,-100,-10
+17435,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,60,speed up,0,0,0
+17735,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,60,speed up,0,0,0
+18036,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,10,70,overtake,0,0,0
+18336,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,10,70,overtake,0,0,0
+18637,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,10,70,straight,0,0,0
+18938,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,10,70,speed up,0,0,0
+19238,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,15,70,straight,0,0,0
+19539,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,70,speed up,0,0,0.34393330090000007
+19839,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,70,speed up,0,0,31.2979303819
+20140,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,70,speed up,0,0,28.481116647529
+20441,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,70,speed up,0,0,25.91781614925139
+20741,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,70,speed up,0,0,23.585212695818765
+21042,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,70,speed up,0,0,21.462543553195076
+21343,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,70,speed up,0,0,19.53091463340752
+21643,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,27.58305363007677
+21944,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,0.7465719372007678
+22244,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,34.832213986441104
+22545,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,1.020236883345102
+22846,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,41.359194956630446
+23146,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,1.3318051445768964
+23447,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,50,70,speed up,2,100,47.3232754609674
+23748,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,55,70,speed up,1,100,19.090000000000003
+24048,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,70,slow down,1,100,18.19
+24349,speed=(3/4)-(1)LimitTimeToCollision=1,speed=0TimeToCollision=0,left,55,70,slow down,0,-100,6.371
+24650,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,70,speed up,0,0,0.003439333009000001
+24950,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,70,speed up,0,0,0.3129793038190001
+25251,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,10,70,speed up,0,0,0.2848111664752901
+25552,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,70,speed up,0,0,0.7295628044374352
+25852,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,70,speed up,0,0,43.064180669480336
+26153,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,70,speed up,0,0,39.188404409227104
+26454,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,70,speed up,0,0,35.66144801239666
+26754,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,70,speed up,0,0,32.45191769128096
+27055,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,40,30,speed up,0,0,0
+27357,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,45,30,speed up,0,0,0
+27658,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,50,30,speed up,0,0,0
+27958,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,55,30,speed up,2,0,0
+28259,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,60,30,speed up,1,0,0
+28560,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,65,30,speed up,1,0,0
+28860,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,70,30,overtake,0,0,0
+29161,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,30,slow down,0,0,0
+29462,speed=AboveLimitTimeToCollision=0,speed=0TimeToCollision=0,right,65,30,stop,0,-100,-9.99996560666991
+29763,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,0,30,speed up,0,0,0.010391027752474353
+30063,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,5,30,speed up,0,0,0.9811257009065013
+30364,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,10,30,speed up,0,0,29.531245099065675
+30665,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,30,speed up,0,0,26.873433040149763
+30965,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,34.199407787580554
+31266,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,1.5406187079950122
+31567,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,40.79487319590245
+31868,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,1.7945055691545355
+32168,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,46.733330932003746
+32469,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,2.0823883215591197
+32770,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,52.08082172201896
+33070,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,2.3949577066233974
+33371,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,56.8966891268833
+33672,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,2.7244288272298904
+33972,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,61.23426450246727
+34273,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,3.0643285895315744
+34574,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,65.14148133811585
+34875,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,3.4093105439595757
+35175,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,68.66142630974386
+35476,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,30,slow down,0,0,3.754993752661057
+35777,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,20,30,speed up,0,100,71.83283361629609
+36078,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,speed up,0,0,65.36787859082943
+36378,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,60,speed up,0,0,59.48476951765478
+36679,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,60,speed up,0,0,54.13114026106585
+36980,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,58.755576172485874
+37281,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,3.96705013911981
+37581,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,62.919689056628485
+37882,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,4.199542015774114
+38183,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,66.66971557112338
+38484,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,4.446284969907936
+38784,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,40,60,speed up,2,100,70.19364401401104
+39085,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,45,60,speed up,1,100,27.244710000000005
+39386,speed=(3/4)-(1)LimitTimeToCollision=1,speed=0TimeToCollision=0,left,50,60,slow down,0,-100,-4.265996089722474
+39688,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,60,speed up,0,0,0.01916318198629193
+39988,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,60,speed up,0,0,0.8928243878249162
+40289,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,10,60,speed up,0,0,1.5054783891825352
+40589,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,60,speed up,0,0,63.876216052750046
+40890,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,speed up,0,0,58.12735660800254
+41191,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,speed up,0,0,52.895894513282315
+41491,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,60,speed up,0,0,48.1352640070869
+41792,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,60,speed up,0,0,43.80309024644908
+42093,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,49.46724407150325
+42394,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,4.4963289136321745
+42694,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,54.56548295348925
+42995,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,4.592350851803849
+43296,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,59.154858166658364
+43597,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,4.724664348290048
+43898,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,40,60,speed up,0,100,63.28661899347543
+44199,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,60,slow down,0,0,4.8850641033957976
+44499,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,40,60,speed up,2,100,67.23040419412789
+44801,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,45,60,speed up,1,100,34.520239000000004
+45102,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=(1/4)-(3/4)LimitTimeToCollision=1,left,50,80,speed up,1,0,0
+45403,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=0TimeToCollision=0,left,55,80,speed up,0,-100,-9.999808368180139
+45703,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,80,speed up,0,0,0.032301647679488094
+46004,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,80,speed up,0,0,1.369985334156107
+46305,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,10,80,speed up,0,0,1.2466866540820574
+46606,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,80,speed up,0,0,1.7943220306151306
+46907,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,80,speed up,0,0,61.17966781665638
+47207,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,80,speed up,0,0,55.6734977131573
+47508,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,80,speed up,0,0,50.662882918973146
+47809,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,80,speed up,0,0,46.10322345626556
+48110,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,80,speed up,0,0,41.95393334520166
+48411,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,80,speed up,0,0,38.178079344133515
+48712,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,50,80,speed up,0,0,34.7420522031615
+49012,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,41.61304937284535
+49313,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,41.0682151
+49614,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,10
+49915,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,19.048850641033958
+50216,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,14.445408334090178
+50517,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,13.416997994409614
+50817,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,47.58591441550492
+51118,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,12.551157339123701
+51419,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,52.95283454734566
+51720,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,11.825569950684788
+52021,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,58.0682332436111
+52322,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,47.15188209641035
+52622,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,27.3344540833409
+52922,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,34.719264374513656
+53223,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,20.761268655123157
+53523,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,19.26582412204695
+53824,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,62.454068160470456
+54125,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,60,40,speed up,2,0,0
+54426,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,left,65,40,speed up,2,0,0
+54727,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,70,40,speed up,1,0,0
+55027,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,75,40,speed up,1,0,0
+55328,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,80,40,overtake,0,0,0
+55629,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,80,40,slow down,0,0,0
+55930,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,75,40,speed up,0,0,0
+56231,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,80,40,straight,0,0,0
+56532,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,80,40,speed up,0,0,0
+56832,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,85,40,speed up,0,0,0
+57133,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,90,40,speed up,0,0,0
+57434,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,95,40,slow down,0,0,0
+57735,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,90,40,slow down,0,0,0
+58036,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,85,40,speed up,0,0,0
+58337,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,90,40,speed up,2,0,0
+58638,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,95,40,slow down,1,0,0
+58938,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,90,40,speed up,1,0,0
+59239,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,95,40,slow down,1,0,0
+59540,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,90,40,speed up,0,0,0
+59841,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,95,40,slow down,0,0,0
+60142,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,90,40,overtake,0,0,0
+60442,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,90,40,speed up,2,0,0
+60743,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,95,40,slow down,1,0,0
+61044,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,90,40,slow down,1,0,0
+61345,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,85,40,slow down,1,0,0
+61646,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,80,40,speed up,0,0,0
+61946,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,85,40,slow down,0,0,0
+62248,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,80,40,speed up,0,0,0
+62550,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,85,40,speed up,0,0,0
+62849,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,90,40,slow down,2,0,0
+63150,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,right,85,60,overtake,2,0,0
+63451,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,85,60,slow down,1,0,0
+63752,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,80,60,overtake,1,0,0
+64053,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,80,60,speed up,0,0,0
+64354,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,85,60,speed up,0,0,0
+64655,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,90,60,overtake,0,0,0
+64956,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,90,60,straight,0,0,0
+65257,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,90,60,overtake,0,0,0
+65557,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,90,60,slow down,2,0,0
+65857,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,right,85,60,slow down,2,0,0
+66158,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,80,60,speed up,1,0,0
+66459,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,85,60,overtake,1,0,0
+66760,speed=AboveLimitTimeToCollision=1,speed=0TimeToCollision=0,right,85,60,stop,0,-100,-9.999676983523207
+67061,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,0,60,speed up,0,0,0.04701470321769059
+67362,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,right,5,60,speed up,0,0,1.6328330478597688
+67663,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,10,60,speed up,0,0,2.0940904246784964
+67963,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,60,speed up,0,0,56.83320202602812
+68264,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,speed up,0,0,51.71821384368559
+68565,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,speed up,0,0,47.063574597753885
+68866,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,60,speed up,0,0,42.827852883956034
+69166,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=2,left,35,60,speed up,2,0,38.54506759556043
+69467,speed=(1/4)-(3/4)LimitTimeToCollision=2,speed=(1/4)-(3/4)LimitTimeToCollision=2,left,40,60,slow down,2,0,0
+69768,speed=(1/4)-(3/4)LimitTimeToCollision=2,speed=0TimeToCollision=0,left,35,60,stop,0,-100,-9.999529852967825
+70069,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,60,speed up,0,0,0.0632541371427065
+70370,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,60,speed up,0,0,1.9056222864574317
+70671,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,10,60,speed up,0,0,2.100510733767293
+70972,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,60,speed up,0,0,35.07601151195999
+71273,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,60,speed up,0,0,31.91917047588359
+71574,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,60,speed up,0,0,29.046445133054068
+71875,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,60,speed up,0,0,26.4322650710792
+72176,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=1,left,35,50,speed up,1,100,34.13623120771642
+72476,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,40,50,overtake,1,100,41.59453058080743
+72777,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,40,50,overtake,1,100,47.85102282853476
+73078,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,40,50,overtake,0,100,53.25857878690175
+73379,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,40,50,slow down,0,0,17.68060402191942
+73680,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,35,50,speed up,0,100,40.89941412716397
+73981,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,40,50,slow down,0,0,16.32153776099912
+74282,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,46.97268809205757
+74583,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,15.159110865819784
+74884,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,52.42701039151001
+75184,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,14.167469883152906
+75485,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,57.32598405119054
+75786,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,13.32398273534952
+76087,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,61.72662547342498
+76388,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,12.608850716548819
+76689,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,65.68005143324797
+76990,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,12.004766159226417
+77291,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,69.23209395151544
+77592,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,11.49661048281893
+77893,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,72.42385066119209
+78194,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,11.071187941148958
+78494,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,75.29217747448438
+78795,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,10.716990921778907
+79099,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,35,50,speed up,2,100,78.23447854800004
+79398,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,40,50,speed up,1,100,52.96927967463833
+79698,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,45,50,overtake,1,100,58.465306696080596
+79999,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,45,50,overtake,0,100,62.725945935690326
+80300,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,45,50,slow down,0,100,19.752461738818806
+80601,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,40,50,slow down,0,0,18.559560350416927
+80902,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,35,50,speed up,0,100,80.5966262967042
+81202,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,70,speed up,0,0,73.34292993000082
+81503,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,70,speed up,0,0,66.74206623630074
+81804,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,70.25345521617484
+82105,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,17.40613886753698
+82406,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,73.40217108323273
+82707,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=2,left,55,70,slow down,2,0,15.665524980783283
+83007,speed=(1/4)-(3/4)LimitTimeToCollision=2,speed=(1/4)-(3/4)LimitTimeToCollision=2,right,50,70,overtake,2,0,0
+83308,speed=(1/4)-(3/4)LimitTimeToCollision=2,speed=(1/4)-(3/4)LimitTimeToCollision=2,right,50,70,slow down,2,0,0
+83609,speed=(1/4)-(3/4)LimitTimeToCollision=2,speed=(1/4)-(3/4)LimitTimeToCollision=1,right,45,70,speed up,1,0,0
+83910,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=(1/4)-(3/4)LimitTimeToCollision=1,right,50,70,overtake,1,0,0
+84210,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,50,70,overtake,0,0,0.7340217108323274
+84511,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,50,70,speed up,0,100,76.21860922471728
+84811,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,55,70,slow down,0,0,14.861158574952128
+85111,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,50,70,speed up,0,100,78.74535988799508
+85412,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,14.162496316336867
+85713,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,81.01244886235894
+86014,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,13.55637117332677
+86315,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,50,70,speed up,2,100,83.44089677286942
+86616,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,70,speed up,2,100,58.20204450392088
+86918,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,70,speed up,1,100,63.0090995128857
+87218,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,70,overtake,1,100,67.0806108014782
+87519,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,70,overtake,0,100,70.50811343306364
+87819,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,70,slow down,0,100,22.33629776772736
+88119,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,60,70,slow down,0,100,30.326030968631898
+88420,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,55,70,slow down,0,0,28.1278368394974
+88721,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,85.37808546397746
+89022,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,26.168834010187435
+89323,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,87.10196525768158
+89624,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,55,70,slow down,0,0,24.42297026174551
+89924,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,50,70,speed up,0,100,88.63599843453088
+90224,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,55,40,speed up,0,0,0
+90524,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,40,overtake,0,0,0
+90824,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,40,slow down,0,0,0
+91124,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,55,40,speed up,2,0,0
+91424,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,60,40,speed up,1,0,0
+91725,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,65,40,slow down,1,0,0
+92025,speed=AboveLimitTimeToCollision=1,speed=0TimeToCollision=0,left,60,40,slow down,0,-100,-9.999367458628575
+92325,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,40,speed up,0,0,0.07793383076610878
+92626,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,5,40,speed up,0,0,2.7768196447358724
+92927,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,10,40,speed up,0,0,80.6587585754231
+93228,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,40,speed up,0,0,73.39947030363501
+93528,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,40,speed up,0,0,66.79351797630787
+93828,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,70.35839588129454
+94128,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,22.684257194383903
+94428,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,73.54939886510893
+94728,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,21.151325463596603
+95028,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,76.405972233234
+95328,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,19.800252639569283
+95628,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,78.9633775363063
+95928,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,18.60986115097542
+96228,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,81.25313839418543
+96529,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,17.561406419819733
+96829,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,83.30343861896509
+97130,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,16.63830016402741
+97430,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,85.13947775870885
+97730,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,15.825864925211757
+98030,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,86.78378863209008
+98330,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,15.111116319011483
+98630,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,25,40,speed up,0,100,88.25652093207118
+98930,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,40,slow down,0,0,14.482569896431047
+99231,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,80,speed up,0,0,80.31343404818477
+99531,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,80,speed up,0,0,73.08522498384815
+99831,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,80,speed up,0,0,66.50755473530182
+100131,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=2,left,40,80,speed up,2,0,59.85679926177164
+100431,speed=(1/4)-(3/4)LimitTimeToCollision=2,speed=(1/4)-(3/4)LimitTimeToCollision=1,left,45,80,speed up,1,0,0.007340217108323274
+100731,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=(1/4)-(3/4)LimitTimeToCollision=1,right,50,80,overtake,1,0,0.6679597568574179
+101031,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=(1/4)-(3/4)LimitTimeToCollision=1,right,50,80,overtake,1,0,0.6078433787402503
+101331,speed=(1/4)-(3/4)LimitTimeToCollision=1,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,50,80,overtake,0,0,1.1456270334839416
+101631,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,50,80,speed up,0,0,54.469687328212196
+101931,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,59.16754429435529
+102232,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,13.625988349731495
+102532,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,63.38704974841708
+102832,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,12.897260012242516
+103132,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,67.17731737369779
+103432,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,12.279307184755242
+103733,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,70.58237870817557
+104034,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,11.757200253361473
+104334,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,73.64171283989162
+104634,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,11.317897356424242
+104934,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,76.90763255103133
+105234,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,67.41327069592776
+105534,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,74.16238322408792
+105834,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,76.85932387524338
+106135,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,20.29928659434606
+106435,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,19.038434260421766
+106735,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,79.40725363853241
+107035,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,17.928663370764912
+107335,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,81.64581490838682
+107636,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,16.95225518277229
+107936,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,84.15536612450742
+108236,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,60,50,speed up,1,0,0
+108537,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,65,50,overtake,1,0,0
+108837,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,65,50,speed up,1,0,0
+109137,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,70,50,overtake,0,0,0
+109437,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,50,slow down,0,0,0
+109737,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,50,slow down,0,0,0
+110037,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,50,speed up,0,0,0
+110338,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,50,overtake,0,0,0
+110638,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,50,speed up,0,0,0
+110938,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,50,speed up,0,0,0
+111238,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,75,50,straight,2,0,0
+111538,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,75,50,speed up,1,0,0
+111839,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,80,50,straight,1,0,0
+112139,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,80,50,speed up,1,0,0
+112439,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,85,50,speed up,0,0,0
+112739,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,90,50,slow down,2,0,0
+113039,speed=AboveLimitTimeToCollision=2,speed=0TimeToCollision=0,left,85,50,stop,0,-100,-9.99922066169234
+113340,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,50,speed up,0,0,0.09790864413685663
+113640,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,50,speed up,0,0,2.5269058767096437
+113940,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,10,50,speed up,0,0,3.1157689502837536
+114240,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,50,speed up,0,0,76.58138317330176
+114541,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,50,speed up,0,0,69.6890586877046
+114842,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,50,speed up,0,0,63.417043405811185
+115142,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,50,speed up,0,0,57.709509499288174
+115442,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,62.10808110118708
+115742,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,15.878110475506933
+116042,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,66.05605409582344
+116342,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,14.950859968914473
+116643,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,35,50,speed up,0,100,69.59995728593024
+116943,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,50,slow down,0,0,14.151773544882328
+117243,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,35,30,speed up,0,0,0
+117543,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,40,30,speed up,0,0,0
+117844,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,45,30,speed up,2,0,0
+118144,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,50,30,speed up,1,0,0
+118446,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,55,30,overtake,1,0,0
+118745,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,55,30,straight,0,0,0
+119046,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,55,30,speed up,0,0,0
+119346,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,30,speed up,0,0,0
+119646,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,65,30,speed up,0,0,0
+119946,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,70,30,speed up,2,0,0
+120247,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,75,30,speed up,1,0,0
+120547,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,80,30,overtake,1,0,0
+120847,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,80,30,speed up,0,0,0
+121147,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,85,30,speed up,0,0,0
+121448,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,90,30,speed up,2,0,0
+121748,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,95,30,straight,1,0,0
+122048,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,95,30,overtake,1,0,0
+122348,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,95,30,straight,0,0,0
+122649,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,95,30,speed up,0,0,0
+122949,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,100,30,speed up,1,0,0
+123249,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,105,30,straight,1,0,0
+123549,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,105,30,speed up,1,0,0
+123850,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,110,30,overtake,0,0,0
+124150,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,110,30,speed up,1,0,0
+124450,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,115,30,overtake,1,0,0
+124751,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,115,30,speed up,0,0,0
+125051,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,120,30,speed up,0,0,0
+125351,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,125,30,overtake,1,0,0
+125652,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,125,30,straight,1,0,0
+125952,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,125,30,overtake,0,0,0
+126252,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,125,50,overtake,0,0,0
+126552,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,125,50,speed up,0,0,0
+126853,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,130,50,overtake,0,0,0
+127153,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,130,50,straight,1,0,0
+127453,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,130,50,overtake,1,0,0
+127754,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,130,50,overtake,0,0,0
+128054,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,130,50,overtake,0,0,0
+128354,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,130,50,overtake,1,0,0
+128655,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,130,50,straight,1,0,0
+128955,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,130,50,overtake,0,0,0
+129255,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,130,50,speed up,0,0,0
+129556,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,135,50,speed up,0,0,0
+129856,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,140,50,speed up,0,0,0
+130156,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,145,50,speed up,1,0,0
+130457,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,150,50,speed up,1,0,0
+130757,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,155,50,speed up,0,0,0
+131057,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,160,50,slow down,0,0,0
+131357,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,155,50,speed up,0,0,0
+131658,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,160,50,speed up,1,0,0
+131958,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,165,50,speed up,0,0,0
+132259,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,170,50,slow down,0,0,0
+132560,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,165,50,straight,0,0,0
+132860,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,165,50,speed up,1,0,0
+133160,speed=AboveLimitTimeToCollision=1,speed=0TimeToCollision=0,left,170,50,straight,0,-100,-9.999020913558631
+133461,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,50,speed up,0,0,0.1192754692260085
+133761,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,50,speed up,0,0,2.835349744758216
+134061,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,10,50,speed up,0,0,3.247814343141697
+134362,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,50,speed up,0,0,63.33596113019652
+134662,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,50,speed up,0,0,57.63572462847883
+134962,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,50,speed up,0,0,52.44850941191574
+135263,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,80,speed up,0,0,47.72814356484332
+135563,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,80,speed up,0,0,43.432610644007426
+135863,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,80,speed up,0,0,39.52367568604676
+136163,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,80,speed up,0,0,35.96654487430255
+136464,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,50,80,speed up,0,0,32.72955583561532
+136764,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,40.130732959013066
+137064,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,71.44053686508742
+137365,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,79.94198472647147
+137665,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,82.08930398927315
+137965,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,22.878113925842918
+138266,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,20.991609862848758
+138566,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,46.32757576174025
+138867,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,19.355724634181286
+139167,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,51.88837543190804
+139467,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,17.939035925082237
+139768,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,57.41394325736811
+140068,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,75.1173762184714
+140368,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,84.70126663023856
+140669,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,87.07815263351709
+140969,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,88.5497277294162
+141269,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,26.32452269182484
+141570,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,24.266209855216037
+141870,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,61.91521103018346
+142170,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,22.458740979996268
+142471,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,65.94827733696508
+142771,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,20.872349655366293
+143071,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,70.10462336545328
+143372,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,78.49113587391842
+143672,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,90.58025223376875
+143972,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,92.42802953272955
+144273,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,65,50,speed up,0,0,0
+144573,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,50,speed up,0,0,0
+144873,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,75,50,straight,0,0,0
+145174,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,75,50,speed up,0,0,0
+145474,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,80,50,speed up,0,0,0
+145775,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,85,50,speed up,2,0,0
+146075,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,90,50,slow down,1,0,0
+146375,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,85,50,speed up,1,0,0
+146676,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,90,50,overtake,1,0,0
+146976,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,90,50,speed up,0,0,0
+147277,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,95,50,speed up,0,0,0
+147577,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,right,100,50,straight,2,0,0
+147878,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,100,50,speed up,1,0,0
+148178,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,105,50,speed up,1,0,0
+148478,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,110,50,speed up,0,0,0
+148779,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,115,50,slow down,0,0,0
+149079,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,110,50,speed up,0,0,0
+149380,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,115,50,slow down,1,0,0
+149681,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,110,50,speed up,1,0,0
+149981,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,115,50,overtake,1,0,0
+150282,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,115,50,speed up,0,0,0
+150582,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,120,50,speed up,0,0,0
+150883,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,125,50,speed up,1,0,0
+151183,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,130,50,overtake,1,0,0
+151483,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,130,50,overtake,0,0,0
+151784,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,130,50,overtake,0,0,0
+152084,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,130,50,speed up,0,0,0
+152385,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,135,50,speed up,1,0,0
+152685,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,140,50,speed up,1,0,0
+152986,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,145,50,speed up,0,0,0
+153286,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,150,60,speed up,0,0,0
+153587,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,155,60,slow down,0,0,0
+153887,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,150,60,speed up,1,0,0
+154187,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,155,60,overtake,0,0,0
+154488,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,155,60,speed up,0,0,0
+154788,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,160,60,speed up,0,0,0
+155088,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,165,60,overtake,0,0,0
+155389,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,165,60,overtake,1,0,0
+155690,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,165,60,speed up,0,0,0
+155990,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,60,slow down,0,0,0
+156291,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,165,60,speed up,0,0,0
+156591,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,170,60,overtake,1,0,0
+156892,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,170,60,overtake,0,0,0
+157192,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,60,speed up,0,0,0
+157493,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,175,60,overtake,1,0,0
+157793,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,175,60,overtake,0,0,0
+158094,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,175,60,speed up,0,0,0
+158394,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,180,60,overtake,1,0,0
+158695,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,180,60,overtake,0,0,0
+158995,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,180,60,speed up,0,0,0
+159295,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,185,60,speed up,0,0,0
+159596,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,190,60,slow down,0,0,0
+159896,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,185,60,slow down,0,0,0
+160197,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,180,60,overtake,0,0,0
+160497,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,180,60,overtake,1,0,0
+160798,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,180,60,speed up,0,0,0
+161098,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,185,60,speed up,0,0,0
+161399,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,190,60,speed up,0,0,0
+161699,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,195,60,overtake,1,0,0
+162000,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,195,60,speed up,0,0,0
+162300,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,200,70,overtake,1,0,0
+162601,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,200,70,speed up,0,0,0
+162901,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,205,70,overtake,0,0,0
+163202,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,205,70,slow down,0,0,0
+163502,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,200,70,overtake,1,0,0
+163803,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,200,70,overtake,0,0,0
+164103,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,200,70,speed up,0,0,0
+164404,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,205,70,overtake,1,0,0
+164704,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,205,70,overtake,0,0,0
+165005,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,205,70,overtake,1,0,0
+165305,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,205,70,speed up,0,0,0
+165606,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,210,70,speed up,1,0,0
+165906,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,215,70,overtake,0,0,0
+166207,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,215,70,overtake,0,0,0
+166507,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,215,70,speed up,0,0,0
+166808,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,220,70,slow down,0,0,0
+167109,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,215,70,overtake,1,0,0
+167410,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,215,70,speed up,0,0,0
+167710,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,220,70,speed up,0,0,0
+168011,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,225,70,overtake,1,0,0
+168312,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,225,70,overtake,0,0,0
+168612,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,225,70,overtake,1,0,0
+168913,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,225,70,speed up,0,0,0
+169213,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,230,70,slow down,0,0,0
+169513,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,225,70,speed up,0,0,0
+169814,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,230,70,speed up,0,0,0
+170114,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,235,70,slow down,0,0,0
+170415,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,230,70,speed up,0,0,0
+170715,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,left,235,70,speed up,1,0,0
+171016,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,240,70,speed up,0,0,0
+171316,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,245,30,speed up,0,0,0
+171617,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,250,30,speed up,0,0,0
+171917,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,255,30,speed up,0,0,0
+172218,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,260,30,speed up,0,0,0
+172519,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,265,30,speed up,0,0,0
+172819,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,270,30,slow down,0,0,0
+173120,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,265,30,speed up,0,0,0
+173420,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,270,30,overtake,0,0,0
+173721,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,270,30,overtake,0,0,0
+174021,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,270,30,straight,0,0,0
+174322,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,270,30,speed up,0,0,0
+174622,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,275,30,speed up,0,0,0
+174923,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,280,30,slow down,0,0,0
+175223,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,speed up,0,0,0
+175524,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,280,30,slow down,0,0,0
+175824,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,slow down,0,0,0
+176125,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,270,30,speed up,0,0,0
+176425,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,straight,0,0,0
+176726,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,slow down,0,0,0
+177026,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,270,30,speed up,0,0,0
+177327,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,straight,0,0,0
+177628,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,275,30,speed up,0,0,0
+177928,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,280,30,slow down,0,0,0
+178229,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,slow down,0,0,0
+178529,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,270,30,slow down,0,0,0
+178830,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,265,30,speed up,0,0,0
+179130,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,left,270,30,speed up,0,0,0
+179431,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,speed up,0,0,0
+179731,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,280,30,slow down,0,0,0
+180032,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,275,30,speed up,0,0,0
+180333,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,280,50,speed up,0,0,0
+180633,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,285,50,overtake,0,0,0
+180934,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,285,50,speed up,0,0,0
+181234,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,290,50,speed up,0,0,0
+181535,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,50,speed up,0,0,0
+181835,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,300,50,overtake,0,0,0
+182136,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,300,50,speed up,0,0,0
+182436,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,305,50,overtake,0,0,0
+182737,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,305,50,speed up,0,0,0
+183037,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,310,50,speed up,0,0,0
+183338,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,315,50,speed up,0,0,0
+183639,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,320,50,overtake,0,0,0
+183939,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,320,50,overtake,0,0,0
+184240,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,320,50,overtake,0,0,0
+184541,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,320,50,speed up,0,0,0
+184842,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,325,50,speed up,0,0,0
+185143,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,330,50,overtake,0,0,0
+185443,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,330,50,straight,0,0,0
+185744,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,330,50,speed up,0,0,0
+186044,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,335,50,slow down,0,0,0
+186345,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,330,50,slow down,0,0,0
+186646,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,325,50,straight,0,0,0
+186946,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,325,50,overtake,0,0,0
+187247,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,325,50,slow down,0,0,0
+187547,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,320,50,slow down,0,0,0
+187848,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,315,50,slow down,0,0,0
+188148,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,310,50,speed up,0,0,0
+188449,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,315,50,speed up,0,0,0
+188750,speed=AboveLimitTimeToCollision=1,speed=0TimeToCollision=0,left,320,50,speed up,0,-100,-9.99880724530774
+189050,speed=0TimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,0,50,speed up,0,0,0.13982606573482462
+189351,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,5,80,speed up,0,0,2.9555110522589443
+189651,speed=0-(1/4)LimitTimeToCollision=0,speed=0-(1/4)LimitTimeToCollision=0,left,10,80,speed up,0,0,2.6895150575556395
+189952,speed=0-(1/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,15,80,speed up,0,0,3.1216097854546083
+190253,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,20,80,speed up,0,0,63.795207262562485
+190553,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,25,80,speed up,0,0,58.05363860893186
+190854,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,30,80,speed up,0,0,52.828811134127996
+191154,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,35,80,speed up,0,0,48.07421813205647
+191455,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,40,80,speed up,0,0,43.74753850017139
+191755,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,45,80,speed up,0,0,39.81026003515596
+192056,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,50,80,speed up,0,0,36.227336631991925
+192357,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,43.38951432753192
+192657,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,81.56630258185388
+192958,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,94.10950687478389
+193258,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,94.90727968385916
+193559,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,28.99383818638333
+193860,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,26.528349511020316
+194160,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,49.31584638988893
+194461,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,24.368673023817173
+194761,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,54.62794848113821
+195062,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,22.47808520624684
+195363,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,59.38993448508686
+195663,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,20.824176030473023
+195964,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,64.26660406239671
+196265,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,84.35874512050708
+196565,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,96.36562451231184
+196866,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,97.69271830620377
+197166,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,98.13168823588812
+197467,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,28.950000187730453
+197768,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,26.697666209581374
+198068,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,68.10692031825285
+198369,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,60,30,speed up,0,0,0
+198670,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,65,30,speed up,2,0,0
+198970,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,left,70,30,slow down,2,0,0
+199271,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,65,30,slow down,1,0,0
+199572,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,60,30,overtake,1,0,0
+199872,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,60,30,overtake,1,0,0
+200173,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,60,30,overtake,0,0,0
+200474,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,30,overtake,0,0,0
+200774,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,30,straight,0,0,0
+201075,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,30,speed up,0,0,0
+201376,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,30,slow down,0,0,0
+201676,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,60,30,slow down,0,0,0
+201977,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,55,30,slow down,0,0,0
+202279,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,50,30,speed up,2,0,0
+202579,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,55,30,speed up,1,0,0
+202880,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,60,30,overtake,1,0,0
+203181,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,60,30,overtake,1,0,0
+203481,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,60,30,overtake,0,0,0
+203782,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,30,slow down,0,0,0
+204083,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,55,30,speed up,0,0,0
+204383,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,30,slow down,0,0,0
+204684,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,55,30,speed up,0,0,0
+204985,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,60,30,overtake,2,0,0
+205285,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,right,60,30,overtake,2,0,0
+205586,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,60,30,overtake,1,0,0
+205887,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,60,30,overtake,1,0,0
+206187,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,60,30,overtake,0,0,0
+206488,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,60,30,speed up,0,0,0
+206789,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,30,speed up,0,0,0
+207090,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,30,speed up,0,0,0
+207390,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,75,40,speed up,2,0,0
+207691,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,80,40,slow down,1,0,0
+207992,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,75,40,overtake,1,0,0
+208292,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,75,40,overtake,1,0,0
+208593,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,75,40,overtake,0,0,0
+208894,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,75,40,slow down,0,0,0
+209195,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,40,speed up,0,0,0
+209495,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,75,40,slow down,2,0,0
+209796,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,left,70,40,slow down,2,0,0
+210097,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,65,40,straight,1,0,0
+210397,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,65,40,overtake,1,0,0
+210698,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,65,40,overtake,1,0,0
+210999,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,65,40,overtake,0,0,0
+211300,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,40,overtake,0,0,0
+211601,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,40,speed up,0,0,0
+211901,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,70,40,speed up,2,0,0
+212202,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,right,75,40,straight,2,0,0
+212503,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,75,40,slow down,1,0,0
+212803,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,70,40,overtake,1,0,0
+213104,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,70,40,overtake,0,0,0
+213405,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,40,slow down,0,0,0
+213705,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,65,40,speed up,0,0,0
+214007,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,40,speed up,0,0,0
+214307,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,75,40,speed up,0,0,0
+214608,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,80,40,overtake,0,0,0
+214908,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,80,40,slow down,0,0,0
+215209,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,75,40,slow down,0,0,0
+215510,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,40,speed up,0,0,0
+215811,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,75,40,slow down,2,0,0
+216111,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,left,70,40,speed up,2,0,0
+216412,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,75,80,speed up,1,100,86.90418749081525
+216712,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,80,80,overtake,1,100,99.29983629465819
+217013,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,80,80,overtake,0,100,99.63682932728818
+217314,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,80,80,slow down,0,100,34.29487625071905
+217614,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,75,80,slow down,0,100,41.208337388154334
+217915,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,70,80,slow down,0,100,47.49958702322044
+218216,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,65,80,slow down,0,100,53.2246241911306
+218517,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,48.58323097520007
+218817,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,71.78206059617956
+219118,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,44.44272848364186
+219420,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,75.47289641146976
+219721,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,89.2101370350066
+220022,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,100.66951468783225
+220322,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,101.04699050388544
+220623,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,50.442882920114094
+220924,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,46.15332359221738
+221225,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,78.38714000624496
+221525,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,42.321862633058096
+221826,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=2,left,55,80,speed up,2,100,81.44052737597053
+222127,speed=(3/4)-(1)LimitTimeToCollision=2,speed=(3/4)-(1)LimitTimeToCollision=1,left,60,80,speed up,1,100,91.2995932365448
+222428,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,101.95276135853575
+222729,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=1,right,65,80,overtake,1,100,102.77701283626753
+223029,speed=(3/4)-(1)LimitTimeToCollision=1,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,overtake,0,100,102.92253017897136
+223330,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,65,80,slow down,0,100,48.51289499608286
+223631,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,right,60,80,slow down,0,0,44.47601077023428
+223932,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,right,55,80,speed up,0,100,83.74123474607582
+224232,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,40.86582204067161
+224533,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,85.77576949187495
+224834,speed=(3/4)-(1)LimitTimeToCollision=0,speed=(1/4)-(3/4)LimitTimeToCollision=0,left,60,80,slow down,0,0,37.6369975315232
+225135,speed=(1/4)-(3/4)LimitTimeToCollision=0,speed=(3/4)-(1)LimitTimeToCollision=0,left,55,80,speed up,0,100,87.5745625180027
+225436,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,left,60,40,speed up,2,0,0
+225736,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,65,40,speed up,1,0,0
+226037,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,70,40,overtake,1,0,0
+226338,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,70,40,overtake,0,0,0
+226639,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,70,40,speed up,0,0,0
+226939,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,75,40,speed up,0,0,0
+227240,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,80,40,speed up,0,0,0
+227541,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,85,40,speed up,0,0,0
+227842,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,90,40,overtake,0,0,0
+228143,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,90,40,speed up,0,0,0
+228443,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,95,40,slow down,0,0,0
+228744,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=2,right,90,40,speed up,2,0,0
+229045,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,95,40,speed up,1,0,0
+229346,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,100,40,overtake,1,0,0
+229647,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,100,40,overtake,0,0,0
+229947,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,100,40,slow down,0,0,0
+230247,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=2,right,95,40,overtake,2,0,0
+230548,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,95,40,speed up,1,0,0
+230849,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,100,40,overtake,1,0,0
+231150,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,100,40,overtake,0,0,0
+231450,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,100,40,overtake,0,0,0
+231751,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,100,40,slow down,0,0,0
+232052,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,95,40,speed up,0,0,0
+232353,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,100,40,speed up,0,0,0
+232653,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,105,40,speed up,0,0,0
+232954,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,110,40,straight,1,0,0
+233255,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,110,40,overtake,1,0,0
+233556,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,110,40,overtake,1,0,0
+233857,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,110,40,overtake,0,0,0
+234158,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,110,40,speed up,0,0,0
+234459,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,115,80,slow down,0,0,0
+234760,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,110,80,speed up,0,0,0
+235061,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,115,80,speed up,0,0,0
+235361,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,120,80,speed up,0,0,0
+235663,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,125,80,slow down,0,0,0
+235964,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,left,120,80,speed up,1,0,0
+236264,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,125,80,overtake,1,0,0
+236565,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,125,80,overtake,0,0,0
+236866,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,125,80,overtake,0,0,0
+237167,speed=AboveLimitTimeToCollision=2,speed=AboveLimitTimeToCollision=1,right,125,80,slow down,1,0,0
+237468,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,120,80,overtake,1,0,0
+237769,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,120,80,overtake,0,0,0
+238070,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,120,80,slow down,0,0,0
+238371,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,115,80,speed up,0,0,0
+238671,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,120,80,speed up,0,0,0
+238972,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,125,80,speed up,0,0,0
+239273,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,130,80,speed up,0,0,0
+239573,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,135,80,overtake,0,0,0
+239874,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,135,80,speed up,0,0,0
+240175,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,140,80,slow down,0,0,0
+240476,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,135,80,straight,0,0,0
+240776,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,135,80,speed up,0,0,0
+241078,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,140,80,slow down,0,0,0
+241378,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,135,80,overtake,1,0,0
+241679,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,135,80,overtake,1,0,0
+241980,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,135,80,overtake,0,0,0
+242280,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,135,80,overtake,1,0,0
+242581,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,135,80,overtake,1,0,0
+242881,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,135,80,overtake,0,0,0
+243181,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,135,80,speed up,0,0,0
+243483,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,140,50,overtake,0,0,0
+243784,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,140,50,speed up,0,0,0
+244084,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,145,50,overtake,0,0,0
+244385,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,145,50,straight,0,0,0
+244686,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,145,50,straight,0,0,0
+244987,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,145,50,speed up,0,0,0
+245288,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,150,50,speed up,0,0,0
+245589,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,155,50,straight,0,0,0
+245890,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,155,50,speed up,0,0,0
+246190,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,160,50,overtake,1,0,0
+246491,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,160,50,overtake,0,0,0
+246792,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,160,50,speed up,0,0,0
+247092,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,165,50,speed up,0,0,0
+247393,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,50,slow down,0,0,0
+247694,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,165,50,speed up,0,0,0
+247995,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,50,overtake,0,0,0
+248295,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,170,50,overtake,1,0,0
+248596,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,170,50,overtake,0,0,0
+248897,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,50,slow down,0,0,0
+249198,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,165,50,speed up,0,0,0
+249499,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,50,speed up,0,0,0
+249799,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,175,50,overtake,1,0,0
+250099,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,175,50,overtake,0,0,0
+250401,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,175,50,straight,0,0,0
+250701,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,175,50,overtake,1,0,0
+251001,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,175,50,overtake,0,0,0
+251302,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,175,50,slow down,0,0,0
+251603,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,50,slow down,0,0,0
+251903,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,165,50,overtake,1,0,0
+252204,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,165,50,overtake,0,0,0
+252505,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,165,60,speed up,0,0,0
+252806,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,170,60,speed up,0,0,0
+253106,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,175,60,overtake,1,0,0
+253407,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,175,60,overtake,0,0,0
+253708,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,175,60,straight,0,0,0
+254008,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,175,60,overtake,1,0,0
+254309,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,175,60,overtake,0,0,0
+254611,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,175,60,speed up,0,0,0
+254911,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,180,60,overtake,1,0,0
+255212,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,180,60,overtake,0,0,0
+255513,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,180,60,speed up,0,0,0
+255813,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,185,60,overtake,1,0,0
+256114,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,185,60,overtake,0,0,0
+256415,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,185,60,slow down,0,0,0
+256716,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,180,60,speed up,0,0,0
+257017,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,185,60,speed up,0,0,0
+257318,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,190,60,speed up,0,0,0
+257618,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,195,60,overtake,1,0,0
+257919,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,195,60,overtake,0,0,0
+258220,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,195,60,speed up,0,0,0
+258520,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,200,60,overtake,1,0,0
+258821,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,200,60,overtake,0,0,0
+259121,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,200,60,overtake,1,0,0
+259422,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,200,60,overtake,0,0,0
+259723,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,200,60,straight,0,0,0
+260024,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,200,60,straight,0,0,0
+260325,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,200,60,speed up,0,0,0
+260626,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,205,60,speed up,0,0,0
+260927,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,210,60,speed up,0,0,0
+261228,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,215,60,overtake,0,0,0
+261529,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,215,60,speed up,0,0,0
+261829,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,220,60,overtake,1,0,0
+262130,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,220,60,overtake,0,0,0
+262431,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,220,60,speed up,0,0,0
+262732,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,225,60,speed up,0,0,0
+263033,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,230,60,speed up,0,0,0
+263333,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,235,60,overtake,1,0,0
+263634,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,235,60,overtake,0,0,0
+263935,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,235,60,speed up,0,0,0
+264235,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,240,60,overtake,1,0,0
+264536,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,240,60,overtake,0,0,0
+264837,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,240,60,speed up,0,0,0
+265137,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,245,60,overtake,1,0,0
+265438,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,245,60,overtake,0,0,0
+265738,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,245,60,overtake,1,0,0
+266039,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,245,60,overtake,0,0,0
+266340,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,245,60,speed up,0,0,0
+266640,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,250,60,overtake,0,0,0
+266941,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,250,60,speed up,0,0,0
+267242,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+267543,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+267844,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+268145,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,speed up,0,0,0
+268445,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,260,60,overtake,0,0,0
+268746,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,260,60,slow down,0,0,0
+269046,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,slow down,0,0,0
+269346,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,250,60,overtake,0,0,0
+269647,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,250,60,speed up,0,0,0
+269947,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+270248,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,speed up,0,0,0
+270548,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,260,60,speed up,0,0,0
+270849,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,265,60,slow down,0,0,0
+271150,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,260,60,slow down,0,0,0
+271451,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,255,60,speed up,0,0,0
+271751,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,260,60,overtake,0,0,0
+272053,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,260,60,slow down,0,0,0
+272353,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+272653,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,slow down,0,0,0
+272953,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,250,60,slow down,0,0,0
+273254,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,245,60,speed up,0,0,0
+273555,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,250,60,slow down,0,0,0
+273855,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,245,60,overtake,1,0,0
+274156,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,245,60,overtake,0,0,0
+274456,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,245,60,slow down,0,0,0
+274756,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,240,60,overtake,1,0,0
+275057,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,240,60,overtake,0,0,0
+275357,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,240,60,slow down,0,0,0
+275659,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,235,60,speed up,0,0,0
+275959,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=1,right,240,60,overtake,1,0,0
+276259,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,240,60,overtake,0,0,0
+276559,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,240,60,speed up,0,0,0
+276860,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,245,60,speed up,0,0,0
+277161,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,250,60,slow down,0,0,0
+277461,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,245,60,speed up,0,0,0
+277762,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,250,60,speed up,0,0,0
+278063,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,255,60,speed up,0,0,0
+278363,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,260,60,speed up,0,0,0
+278664,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,265,60,overtake,0,0,0
+278964,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,265,60,slow down,0,0,0
+279264,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,260,60,overtake,0,0,0
+279564,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,260,60,slow down,0,0,0
+279864,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+280164,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+280464,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,speed up,0,0,0
+280765,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,260,60,slow down,0,0,0
+281066,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,slow down,0,0,0
+281366,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,250,60,speed up,0,0,0
+281666,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,255,60,overtake,0,0,0
+281966,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,255,60,speed up,0,0,0
+282266,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,260,60,speed up,0,0,0
+282566,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,265,60,speed up,0,0,0
+282866,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,270,60,overtake,0,0,0
+283166,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,270,60,straight,0,0,0
+283467,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,270,60,slow down,0,0,0
+283767,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,265,60,overtake,0,0,0
+284067,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,265,60,overtake,0,0,0
+284367,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,265,60,speed up,0,0,0
+284667,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,270,60,speed up,0,0,0
+284967,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,275,60,overtake,0,0,0
+285267,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,275,60,speed up,0,0,0
+285567,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,280,60,overtake,0,0,0
+285867,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,280,60,slow down,0,0,0
+286168,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,275,60,overtake,0,0,0
+286468,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,275,60,overtake,0,0,0
+286768,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,275,60,speed up,0,0,0
+287068,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,280,60,speed up,0,0,0
+287368,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,285,60,speed up,0,0,0
+287668,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,290,60,speed up,0,0,0
+287968,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,295,60,overtake,0,0,0
+288269,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,60,straight,0,0,0
+288569,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,295,80,overtake,0,0,0
+288869,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,80,slow down,0,0,0
+289169,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,290,80,speed up,0,0,0
+289470,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,80,slow down,0,0,0
+289770,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,290,80,speed up,0,0,0
+290070,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,295,80,overtake,0,0,0
+290371,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,80,slow down,0,0,0
+290671,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,290,80,overtake,0,0,0
+290971,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,290,80,speed up,0,0,0
+291271,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,80,speed up,0,0,0
+291571,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,300,80,speed up,0,0,0
+291871,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,305,80,overtake,0,0,0
+292172,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,305,80,slow down,0,0,0
+292472,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,300,80,slow down,0,0,0
+292772,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,80,slow down,0,0,0
+293072,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,290,80,slow down,0,0,0
+293372,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,285,80,overtake,0,0,0
+293672,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,285,80,speed up,0,0,0
+293972,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,290,80,speed up,0,0,0
+294272,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,295,80,speed up,0,0,0
+294573,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,300,80,speed up,0,0,0
+294873,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,305,80,slow down,0,0,0
+295173,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,300,80,overtake,0,0,0
+295473,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,300,80,overtake,0,0,0
+295773,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,300,80,speed up,0,0,0
+296074,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,305,80,overtake,0,0,0
+296374,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,305,80,straight,0,0,0
+296674,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,305,80,speed up,0,0,0
+296974,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,310,80,speed up,0,0,0
+297274,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,315,80,speed up,0,0,0
+297574,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,320,30,speed up,0,0,0
+297874,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,325,30,speed up,0,0,0
+298175,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,330,30,speed up,0,0,0
+298475,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,335,30,slow down,0,0,0
+298775,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,330,30,speed up,0,0,0
+299075,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,335,30,speed up,0,0,0
+299375,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,340,30,straight,0,0,0
+299675,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,340,30,slow down,0,0,0
+299975,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,335,30,slow down,0,0,0
+300276,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,330,30,overtake,0,0,0
+300576,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,330,30,overtake,0,0,0
+300876,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,330,30,straight,0,0,0
+301176,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,330,30,speed up,0,0,0
+301476,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,335,30,overtake,0,0,0
+301777,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,335,30,speed up,0,0,0
+302077,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,340,30,overtake,0,0,0
+302377,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,30,straight,0,0,0
+302677,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,340,30,overtake,0,0,0
+302978,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,30,slow down,0,0,0
+303278,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,335,30,speed up,0,0,0
+303578,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,340,30,overtake,0,0,0
+303878,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,30,slow down,0,0,0
+304179,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,335,30,overtake,0,0,0
+304479,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,335,30,slow down,0,0,0
+304779,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,330,30,overtake,0,0,0
+305079,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,330,30,speed up,0,0,0
+305380,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,335,30,overtake,0,0,0
+305680,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,335,30,speed up,0,0,0
+305980,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,340,30,overtake,0,0,0
+306280,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,30,speed up,0,0,0
+306580,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,345,70,slow down,0,0,0
+306882,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,70,speed up,0,0,0
+307182,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,345,70,overtake,0,0,0
+307482,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,345,70,slow down,0,0,0
+307782,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,70,overtake,0,0,0
+308083,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,70,overtake,0,0,0
+308383,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,340,70,overtake,0,0,0
+308683,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,340,70,speed up,0,0,0
+308983,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,345,70,speed up,0,0,0
+309284,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,350,70,speed up,0,0,0
+309584,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,355,70,slow down,0,0,0
+309884,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,350,70,speed up,0,0,0
+310184,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,355,70,speed up,0,0,0
+310484,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,360,70,speed up,0,0,0
+310785,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,365,70,speed up,0,0,0
+311085,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,370,70,speed up,0,0,0
+311385,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,375,70,overtake,0,0,0
+311685,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,375,70,speed up,0,0,0
+311986,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,380,70,slow down,0,0,0
+312286,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,375,70,speed up,0,0,0
+312586,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,380,70,overtake,0,0,0
+312887,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,380,70,overtake,0,0,0
+313187,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,380,70,speed up,0,0,0
+313487,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,385,70,overtake,0,0,0
+313788,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,385,70,speed up,0,0,0
+314088,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,390,70,overtake,0,0,0
+314388,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,390,70,speed up,0,0,0
+314688,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,395,70,straight,0,0,0
+314988,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,395,70,straight,0,0,0
+315289,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,395,70,slow down,0,0,0
+315589,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,390,80,overtake,0,0,0
+315889,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,390,80,speed up,0,0,0
+316190,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,395,80,overtake,0,0,0
+316490,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,395,80,overtake,0,0,0
+316790,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,395,80,overtake,0,0,0
+317091,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,395,80,overtake,0,0,0
+317391,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,395,80,speed up,0,0,0
+317691,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,400,80,overtake,0,0,0
+317991,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,400,80,overtake,0,0,0
+318292,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,400,80,speed up,0,0,0
+318592,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,405,80,speed up,0,0,0
+318892,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,410,80,speed up,0,0,0
+319193,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,415,80,slow down,0,0,0
+319493,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,410,80,overtake,0,0,0
+319793,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,410,80,speed up,0,0,0
+320094,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,415,80,overtake,0,0,0
+320393,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,415,80,straight,0,0,0
+320694,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,415,80,overtake,0,0,0
+320994,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,415,80,overtake,0,0,0
+321294,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,415,80,speed up,0,0,0
+321595,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,420,80,speed up,0,0,0
+321895,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,425,80,overtake,0,0,0
+322195,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,425,80,speed up,0,0,0
+322496,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,430,80,speed up,0,0,0
+322796,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,435,80,overtake,0,0,0
+323096,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,435,80,speed up,0,0,0
+323396,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,440,80,slow down,0,0,0
+323697,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,435,80,overtake,0,0,0
+323997,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,435,80,overtake,0,0,0
+324297,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,435,80,slow down,0,0,0
+324599,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,430,80,overtake,0,0,0
+324899,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,430,80,speed up,0,0,0
+325199,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,435,80,speed up,0,0,0
+325500,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,440,80,overtake,0,0,0
+325800,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,440,80,speed up,0,0,0
+326100,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,445,80,overtake,0,0,0
+326401,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,445,80,speed up,0,0,0
+326701,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,450,80,overtake,0,0,0
+327002,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,450,80,overtake,0,0,0
+327302,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,450,80,overtake,0,0,0
+327603,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,450,80,speed up,0,0,0
+327903,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,455,80,overtake,0,0,0
+328204,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,455,80,overtake,0,0,0
+328505,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,455,80,overtake,0,0,0
+328805,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,455,80,speed up,0,0,0
+329105,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,460,80,straight,0,0,0
+329405,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,460,80,straight,0,0,0
+329706,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,460,80,speed up,0,0,0
+330006,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,465,80,speed up,0,0,0
+330307,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,470,80,overtake,0,0,0
+330607,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,470,80,speed up,0,0,0
+330907,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,475,80,slow down,0,0,0
+331207,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,470,80,speed up,0,0,0
+331508,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,475,80,overtake,0,0,0
+331808,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,475,80,overtake,0,0,0
+332109,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,475,80,straight,0,0,0
+332409,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,475,80,slow down,0,0,0
+332709,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,470,80,speed up,0,0,0
+333010,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,475,80,overtake,0,0,0
+333310,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,475,80,slow down,0,0,0
+333610,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,470,50,speed up,0,0,0
+333911,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,475,50,speed up,0,0,0
+334211,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,480,50,overtake,0,0,0
+334512,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,480,50,speed up,0,0,0
+334812,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,485,50,overtake,0,0,0
+335112,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,485,50,slow down,0,0,0
+335412,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,480,50,overtake,0,0,0
+335713,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,480,50,slow down,0,0,0
+336013,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,475,50,speed up,0,0,0
+336313,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,480,50,speed up,0,0,0
+336614,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,485,50,slow down,0,0,0
+336914,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,480,50,speed up,0,0,0
+337214,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,485,50,speed up,0,0,0
+337515,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,490,50,speed up,0,0,0
+337815,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,495,50,overtake,0,0,0
+338116,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,495,50,straight,0,0,0
+338416,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,495,50,overtake,0,0,0
+338716,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,495,50,overtake,0,0,0
+339016,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,495,50,speed up,0,0,0
+339316,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,500,50,slow down,0,0,0
+339617,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,495,50,speed up,0,0,0
+339917,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,500,50,slow down,0,0,0
+340218,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,495,50,speed up,0,0,0
+340518,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,500,50,overtake,0,0,0
+340818,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,500,50,slow down,0,0,0
+341119,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,495,50,straight,0,0,0
+341419,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,495,50,slow down,0,0,0
+341720,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,490,50,straight,0,0,0
+342021,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,490,50,overtake,0,0,0
+342321,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,490,50,speed up,0,0,0
+342622,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,495,80,speed up,0,0,0
+342922,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,500,80,speed up,0,0,0
+343222,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,505,80,speed up,0,0,0
+343522,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,510,80,speed up,0,0,0
+343822,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,515,80,straight,0,0,0
+344122,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,515,80,speed up,0,0,0
+344423,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,80,overtake,0,0,0
+344723,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,520,80,overtake,0,0,0
+345024,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,80,slow down,0,0,0
+345324,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,80,overtake,0,0,0
+345624,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,80,slow down,0,0,0
+345925,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,510,80,speed up,0,0,0
+346226,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,515,80,overtake,0,0,0
+346526,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,80,speed up,0,0,0
+346826,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,80,slow down,0,0,0
+347127,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,80,speed up,0,0,0
+347427,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,520,80,speed up,0,0,0
+347727,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,525,80,straight,0,0,0
+348028,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,80,overtake,0,0,0
+348328,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,80,overtake,0,0,0
+348629,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,80,overtake,0,0,0
+348929,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,80,overtake,0,0,0
+349230,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,80,straight,0,0,0
+349530,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,80,slow down,0,0,0
+349830,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,520,80,overtake,0,0,0
+350131,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,80,speed up,0,0,0
+350431,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,80,slow down,0,0,0
+350732,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,80,speed up,0,0,0
+351032,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,525,80,speed up,0,0,0
+351332,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,530,80,overtake,0,0,0
+351633,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,530,60,slow down,0,0,0
+351933,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,60,speed up,0,0,0
+352234,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,530,60,overtake,0,0,0
+352534,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,530,60,slow down,0,0,0
+352835,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,60,speed up,0,0,0
+353136,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,530,60,slow down,0,0,0
+353436,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,60,overtake,0,0,0
+353736,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,60,slow down,0,0,0
+354037,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,60,overtake,0,0,0
+354337,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,60,slow down,0,0,0
+354638,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,60,overtake,0,0,0
+354938,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,515,60,overtake,0,0,0
+355239,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,60,speed up,0,0,0
+355539,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,60,slow down,0,0,0
+355840,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,515,60,overtake,0,0,0
+356140,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,60,slow down,0,0,0
+356440,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,510,60,speed up,0,0,0
+356741,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,60,straight,0,0,0
+357041,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,515,60,slow down,0,0,0
+357342,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,510,60,straight,0,0,0
+357642,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,510,60,overtake,0,0,0
+357943,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,510,60,speed up,0,0,0
+358243,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,60,speed up,0,0,0
+358544,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,520,60,overtake,0,0,0
+358844,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,60,straight,0,0,0
+359145,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,60,straight,0,0,0
+359446,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,60,speed up,0,0,0
+359746,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,525,60,straight,0,0,0
+360046,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,525,60,slow down,0,0,0
+360347,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,520,60,speed up,0,0,0
+360647,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,525,30,slow down,0,0,0
+360948,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,520,30,slow down,0,0,0
+361248,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,515,30,overtake,0,0,0
+361549,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,30,straight,0,0,0
+361850,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,515,30,overtake,0,0,0
+362150,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,30,speed up,0,0,0
+362451,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,30,slow down,0,0,0
+362751,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,515,30,speed up,0,0,0
+363052,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,520,30,overtake,0,0,0
+363352,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,30,speed up,0,0,0
+363653,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+363953,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,30,straight,0,0,0
+364254,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+364555,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+364855,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+365156,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,30,slow down,0,0,0
+365456,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,30,speed up,0,0,0
+365757,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+366057,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,30,slow down,0,0,0
+366358,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,520,30,overtake,0,0,0
+366658,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,30,speed up,0,0,0
+366959,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,30,slow down,0,0,0
+367259,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,520,30,straight,0,0,0
+367560,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,520,30,speed up,0,0,0
+367861,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+368162,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+368462,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,525,30,overtake,0,0,0
+368762,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,525,30,speed up,0,0,0
+369063,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,530,30,speed up,0,0,0
+369364,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,535,30,speed up,0,0,0
+369664,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,540,70,overtake,0,0,0
+369966,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,540,70,straight,0,0,0
+370265,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,540,70,overtake,0,0,0
+370566,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,540,70,speed up,0,0,0
+370867,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,545,70,overtake,0,0,0
+371167,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,545,70,overtake,0,0,0
+371468,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,545,70,slow down,0,0,0
+371769,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,540,70,speed up,0,0,0
+372068,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,545,70,overtake,0,0,0
+372369,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,545,70,speed up,0,0,0
+372669,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,550,70,slow down,0,0,0
+372970,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,545,70,straight,0,0,0
+373271,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,545,70,overtake,0,0,0
+373571,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,545,70,speed up,0,0,0
+373872,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,550,70,speed up,0,0,0
+374172,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,555,70,overtake,0,0,0
+374473,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,555,70,slow down,0,0,0
+374773,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,550,70,speed up,0,0,0
+375074,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,555,70,speed up,0,0,0
+375374,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,560,70,overtake,0,0,0
+375675,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,560,70,speed up,0,0,0
+375975,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,565,70,speed up,0,0,0
+376276,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,570,70,speed up,0,0,0
+376576,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,575,70,speed up,0,0,0
+376878,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,580,70,overtake,0,0,0
+377178,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,580,70,slow down,0,0,0
+377479,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,575,70,overtake,0,0,0
+377780,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,575,70,slow down,0,0,0
+378080,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,570,70,overtake,0,0,0
+378381,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,570,70,speed up,0,0,0
+378681,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,575,30,slow down,0,0,0
+378982,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,570,30,overtake,0,0,0
+379282,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,570,30,overtake,0,0,0
+379583,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,570,30,slow down,0,0,0
+379884,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,565,30,overtake,0,0,0
+380184,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,565,30,overtake,0,0,0
+380485,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,565,30,speed up,0,0,0
+380786,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,570,30,overtake,0,0,0
+381086,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,570,30,slow down,0,0,0
+381387,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,565,30,overtake,0,0,0
+381688,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,565,30,overtake,0,0,0
+381988,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,565,30,speed up,0,0,0
+382289,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,570,30,speed up,0,0,0
+382589,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,575,30,speed up,0,0,0
+382890,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,580,30,speed up,0,0,0
+383190,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,585,30,overtake,0,0,0
+383491,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,585,30,overtake,0,0,0
+383792,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,585,30,speed up,0,0,0
+384092,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,590,30,overtake,0,0,0
+384393,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,590,30,speed up,0,0,0
+384693,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,595,30,speed up,0,0,0
+384994,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,600,30,straight,0,0,0
+385295,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,600,30,slow down,0,0,0
+385595,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,595,30,overtake,0,0,0
+385896,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,595,30,speed up,0,0,0
+386196,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,600,30,speed up,0,0,0
+386497,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,605,30,overtake,0,0,0
+386798,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,605,30,speed up,0,0,0
+387098,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,610,30,slow down,0,0,0
+387399,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,605,30,slow down,0,0,0
+387701,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,600,60,speed up,0,0,0
+388000,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,605,60,straight,0,0,0
+388301,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,605,60,slow down,0,0,0
+388602,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,600,60,speed up,0,0,0
+388902,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,605,60,speed up,0,0,0
+389203,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,610,60,straight,0,0,0
+389503,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,610,60,speed up,0,0,0
+389804,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,615,60,slow down,0,0,0
+390105,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,610,60,straight,0,0,0
+390405,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,610,60,speed up,0,0,0
+390706,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,615,60,slow down,0,0,0
+391006,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,610,60,overtake,0,0,0
+391307,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,610,60,overtake,0,0,0
+391608,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,610,60,speed up,0,0,0
+391908,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,615,60,straight,0,0,0
+392209,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,615,60,overtake,0,0,0
+392510,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,615,60,slow down,0,0,0
+392810,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,610,60,speed up,0,0,0
+393111,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,615,60,speed up,0,0,0
+393411,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,620,60,speed up,0,0,0
+393712,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,625,60,overtake,0,0,0
+394013,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,625,60,overtake,0,0,0
+394314,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,625,60,overtake,0,0,0
+394615,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,625,60,speed up,0,0,0
+394916,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,630,60,slow down,0,0,0
+395216,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,625,60,slow down,0,0,0
+395517,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,620,60,overtake,0,0,0
+395818,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,620,60,speed up,0,0,0
+396118,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,625,60,speed up,0,0,0
+396419,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,630,60,overtake,0,0,0
+396719,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,630,30,slow down,0,0,0
+397020,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,625,30,straight,0,0,0
+397321,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,625,30,speed up,0,0,0
+397621,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,630,30,speed up,0,0,0
+397922,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,635,30,speed up,0,0,0
+398222,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,640,30,speed up,0,0,0
+398523,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,645,30,speed up,0,0,0
+398823,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,650,30,speed up,0,0,0
+399124,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,655,30,speed up,0,0,0
+399425,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,660,30,straight,0,0,0
+399726,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,660,30,speed up,0,0,0
+400027,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,665,30,overtake,0,0,0
+400327,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,665,30,speed up,0,0,0
+400628,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,670,30,straight,0,0,0
+400929,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,670,30,speed up,0,0,0
+401229,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,675,30,speed up,0,0,0
+401530,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,680,30,speed up,0,0,0
+401831,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,685,30,speed up,0,0,0
+402131,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,690,30,overtake,0,0,0
+402432,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,690,30,slow down,0,0,0
+402732,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,685,30,slow down,0,0,0
+403033,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,680,30,speed up,0,0,0
+403334,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,685,30,speed up,0,0,0
+403635,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,690,30,overtake,0,0,0
+403936,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,690,30,straight,0,0,0
+404237,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,690,30,slow down,0,0,0
+404538,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,685,30,overtake,0,0,0
+404838,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,685,30,overtake,0,0,0
+405139,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,685,30,speed up,0,0,0
+405440,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,690,30,overtake,0,0,0
+405740,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,690,70,speed up,0,0,0
+406041,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,695,70,speed up,0,0,0
+406342,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,700,70,straight,0,0,0
+406642,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,700,70,speed up,0,0,0
+406943,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,705,70,overtake,0,0,0
+407244,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,705,70,overtake,0,0,0
+407545,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,705,70,slow down,0,0,0
+407845,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,700,70,speed up,0,0,0
+408146,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,705,70,speed up,0,0,0
+408447,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,710,70,overtake,0,0,0
+408748,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,710,70,overtake,0,0,0
+409048,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,710,70,overtake,0,0,0
+409349,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,710,70,speed up,0,0,0
+409650,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,715,70,speed up,0,0,0
+409950,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,720,70,speed up,0,0,0
+410251,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,725,70,overtake,0,0,0
+410552,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,725,70,speed up,0,0,0
+410852,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,730,70,straight,0,0,0
+411153,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,730,70,speed up,0,0,0
+411454,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,735,70,overtake,0,0,0
+411756,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,735,70,overtake,0,0,0
+412056,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,735,70,speed up,0,0,0
+412357,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,740,70,speed up,0,0,0
+412658,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,745,70,slow down,0,0,0
+412958,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,740,70,speed up,0,0,0
+413259,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,745,70,slow down,0,0,0
+413560,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,740,70,slow down,0,0,0
+413860,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,735,70,speed up,0,0,0
+414161,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,740,70,speed up,0,0,0
+414462,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,745,70,speed up,0,0,0
+414762,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,750,40,speed up,0,0,0
+415063,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,755,40,overtake,0,0,0
+415364,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,755,40,overtake,0,0,0
+415665,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,755,40,slow down,0,0,0
+415966,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,750,40,overtake,0,0,0
+416267,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,750,40,overtake,0,0,0
+416568,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,750,40,overtake,0,0,0
+416868,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,750,40,overtake,0,0,0
+417169,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,750,40,speed up,0,0,0
+417470,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,755,40,speed up,0,0,0
+417771,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,760,40,speed up,0,0,0
+418071,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,765,40,speed up,0,0,0
+418372,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,770,40,slow down,0,0,0
+418674,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,765,40,overtake,0,0,0
+418974,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,765,40,overtake,0,0,0
+419274,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,765,40,overtake,0,0,0
+419574,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,765,40,overtake,0,0,0
+419875,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,765,40,slow down,0,0,0
+420176,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,760,40,overtake,0,0,0
+420477,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,760,40,overtake,0,0,0
+420778,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,760,40,overtake,0,0,0
+421079,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,760,40,slow down,0,0,0
+421379,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,755,40,speed up,0,0,0
+421680,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,760,40,speed up,0,0,0
+421981,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,765,40,slow down,0,0,0
+422282,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,760,40,speed up,0,0,0
+422582,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,765,40,slow down,0,0,0
+422883,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,760,40,straight,0,0,0
+423184,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,760,40,overtake,0,0,0
+423485,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,760,40,slow down,0,0,0
+423786,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,755,50,speed up,0,0,0
+424086,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,760,50,speed up,0,0,0
+424387,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,765,50,speed up,0,0,0
+424688,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,770,50,slow down,0,0,0
+424988,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,765,50,speed up,0,0,0
+425289,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,770,50,overtake,0,0,0
+425590,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,770,50,overtake,0,0,0
+425891,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,770,50,overtake,0,0,0
+426191,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,770,50,speed up,0,0,0
+426492,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,775,50,speed up,0,0,0
+426793,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,780,50,slow down,0,0,0
+427094,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,775,50,overtake,0,0,0
+427395,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,775,50,overtake,0,0,0
+427696,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,775,50,speed up,0,0,0
+427996,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,780,50,overtake,0,0,0
+428297,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,780,50,slow down,0,0,0
+428598,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,775,50,straight,0,0,0
+428899,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,775,50,slow down,0,0,0
+429200,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,770,50,overtake,0,0,0
+429501,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,770,50,speed up,0,0,0
+429802,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,775,50,speed up,0,0,0
+430103,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,780,50,overtake,0,0,0
+430404,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,780,50,slow down,0,0,0
+430705,speed=AboveLimitTimeToCollision=1,speed=AboveLimitTimeToCollision=0,right,775,50,overtake,0,0,0
+431005,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,775,50,speed up,0,0,0
+431306,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,780,50,speed up,0,0,0
+431607,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,785,50,speed up,0,0,0
+431908,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,790,50,speed up,0,0,0
+432209,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,795,50,straight,0,0,0
+432510,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,795,50,speed up,0,0,0
+432810,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,800,80,speed up,0,0,0
+433111,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,805,80,speed up,0,0,0
+433412,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,810,80,speed up,0,0,0
+433713,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,815,80,slow down,0,0,0
+434014,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,810,80,slow down,0,0,0
+434315,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,805,80,speed up,0,0,0
+434616,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,810,80,overtake,0,0,0
+434917,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,810,80,slow down,0,0,0
+435218,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,805,80,speed up,0,0,0
+435518,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,810,80,speed up,0,0,0
+435819,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,815,80,speed up,0,0,0
+436120,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,820,80,slow down,0,0,0
+436421,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,815,80,speed up,0,0,0
+436722,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,820,80,speed up,0,0,0
+437023,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,825,80,speed up,0,0,0
+437323,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,830,80,speed up,0,0,0
+437624,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,835,80,speed up,0,0,0
+437925,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,840,80,slow down,0,0,0
+438226,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,835,80,overtake,0,0,0
+438527,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,835,80,speed up,0,0,0
+438828,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,840,80,slow down,0,0,0
+439129,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,835,80,speed up,0,0,0
+439430,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,840,80,speed up,0,0,0
+439731,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,845,80,speed up,0,0,0
+440032,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,850,80,speed up,0,0,0
+440332,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,855,80,overtake,0,0,0
+440633,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,855,80,straight,0,0,0
+440934,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,855,80,slow down,0,0,0
+441235,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,850,80,speed up,0,0,0
+441535,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,855,80,straight,0,0,0
+441836,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,855,50,slow down,0,0,0
+442138,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,850,50,speed up,0,0,0
+442438,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,855,50,speed up,0,0,0
+442739,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,860,50,overtake,0,0,0
+443040,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,860,50,speed up,0,0,0
+443341,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,865,50,slow down,0,0,0
+443642,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,860,50,speed up,0,0,0
+443943,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,865,50,speed up,0,0,0
+444244,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,870,50,speed up,0,0,0
+444545,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,875,50,speed up,0,0,0
+444846,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,880,50,speed up,0,0,0
+445146,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,885,50,speed up,0,0,0
+445447,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,890,50,overtake,0,0,0
+445748,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,890,50,speed up,0,0,0
+446049,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,895,50,speed up,0,0,0
+446350,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,900,50,slow down,0,0,0
+446651,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,895,50,speed up,0,0,0
+446952,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,900,50,speed up,0,0,0
+447252,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,905,50,slow down,0,0,0
+447552,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,900,50,straight,0,0,0
+447853,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,900,50,speed up,0,0,0
+448154,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,905,50,speed up,0,0,0
+448455,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,910,50,slow down,0,0,0
+448756,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,905,50,slow down,0,0,0
+449056,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,900,50,straight,0,0,0
+449357,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,900,50,speed up,0,0,0
+449657,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,905,50,straight,0,0,0
+449958,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,905,50,overtake,0,0,0
+450259,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,905,50,straight,0,0,0
+450560,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,905,50,speed up,0,0,0
+450861,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,910,30,overtake,0,0,0
+451162,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,910,30,speed up,0,0,0
+451463,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,915,30,speed up,0,0,0
+451764,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,920,30,speed up,0,0,0
+452064,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,925,30,speed up,0,0,0
+452366,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,930,30,overtake,0,0,0
+452665,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,930,30,overtake,0,0,0
+452966,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,930,30,speed up,0,0,0
+453267,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,935,30,speed up,0,0,0
+453568,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,940,30,speed up,0,0,0
+453869,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,945,30,speed up,0,0,0
+454169,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,slow down,0,0,0
+454470,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,945,30,speed up,0,0,0
+454771,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,speed up,0,0,0
+455072,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,955,30,slow down,0,0,0
+455373,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,speed up,0,0,0
+455674,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,955,30,slow down,0,0,0
+455974,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,speed up,0,0,0
+456275,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,955,30,speed up,0,0,0
+456576,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,960,30,overtake,0,0,0
+456877,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,960,30,speed up,0,0,0
+457178,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,965,30,slow down,0,0,0
+457479,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,960,30,slow down,0,0,0
+457779,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,955,30,slow down,0,0,0
+458080,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,straight,0,0,0
+458381,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,straight,0,0,0
+458682,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,speed up,0,0,0
+458983,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,955,30,straight,0,0,0
+459284,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,955,30,slow down,0,0,0
+459584,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,30,straight,0,0,0
+459884,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,60,slow down,0,0,0
+460186,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,945,60,straight,0,0,0
+460503,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,945,60,speed up,0,0,0
+460786,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,950,60,speed up,0,0,0
+461086,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,955,60,speed up,0,0,0
+461387,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,960,60,speed up,0,0,0
+461687,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,965,60,overtake,0,0,0
+461988,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,965,60,slow down,0,0,0
+462289,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,960,60,straight,0,0,0
+462590,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,960,60,speed up,0,0,0
+462891,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,965,60,straight,0,0,0
+463192,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,965,60,straight,0,0,0
+463492,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,965,60,slow down,0,0,0
+463793,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,960,60,speed up,0,0,0
+464094,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,965,60,speed up,0,0,0
+464395,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,970,60,slow down,0,0,0
+464696,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,965,60,speed up,0,0,0
+464998,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,970,60,overtake,0,0,0
+465298,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,970,60,slow down,0,0,0
+465598,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,965,60,speed up,0,0,0
+465898,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,970,60,speed up,0,0,0
+466198,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,975,60,speed up,0,0,0
+466498,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,980,60,speed up,0,0,0
+466798,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,985,60,slow down,0,0,0
+467098,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,980,60,slow down,0,0,0
+467399,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,975,60,slow down,0,0,0
+467701,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,970,60,speed up,0,0,0
+468001,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,975,60,speed up,0,0,0
+468301,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,980,60,straight,0,0,0
+468601,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,980,60,straight,0,0,0
+468901,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,980,50,slow down,0,0,0
+469202,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,975,50,overtake,0,0,0
+469502,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,975,50,speed up,0,0,0
+469803,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,980,50,slow down,0,0,0
+470103,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,975,50,straight,0,0,0
+470403,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,975,50,speed up,0,0,0
+470703,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,980,50,overtake,0,0,0
+471003,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,980,50,speed up,0,0,0
+471304,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,985,50,speed up,0,0,0
+471605,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,990,50,speed up,0,0,0
+471906,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,995,50,straight,0,0,0
+472207,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,995,50,overtake,0,0,0
+472507,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,995,50,straight,0,0,0
+472807,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,995,50,overtake,0,0,0
+473107,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,995,50,speed up,0,0,0
+473407,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1000,50,slow down,0,0,0
+473708,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,995,50,speed up,0,0,0
+474008,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1000,50,overtake,0,0,0
+474308,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1000,50,speed up,0,0,0
+474609,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1005,50,speed up,0,0,0
+474910,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1010,50,slow down,0,0,0
+475211,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1005,50,overtake,0,0,0
+475512,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1005,50,overtake,0,0,0
+475812,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1005,50,speed up,0,0,0
+476114,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1010,50,straight,0,0,0
+476414,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1010,50,speed up,0,0,0
+476714,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1015,50,speed up,0,0,0
+477015,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1020,50,speed up,0,0,0
+477316,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1025,50,speed up,0,0,0
+477617,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1030,50,speed up,0,0,0
+477917,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1035,40,overtake,0,0,0
+478217,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1035,40,straight,0,0,0
+478518,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1035,40,overtake,0,0,0
+478818,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1035,40,speed up,0,0,0
+479118,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1040,40,speed up,0,0,0
+479419,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1045,40,speed up,0,0,0
+479720,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1050,40,slow down,0,0,0
+480021,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1045,40,straight,0,0,0
+480321,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1045,40,speed up,0,0,0
+480622,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1050,40,speed up,0,0,0
+480923,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1055,40,speed up,0,0,0
+481224,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1060,40,overtake,0,0,0
+481526,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1060,40,straight,0,0,0
+481827,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1060,40,speed up,0,0,0
+482127,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1065,40,slow down,0,0,0
+482427,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1060,40,overtake,0,0,0
+482728,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1060,40,speed up,0,0,0
+483029,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1065,40,straight,0,0,0
+483329,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1065,40,slow down,0,0,0
+483629,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1060,40,speed up,0,0,0
+483929,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1065,40,speed up,0,0,0
+484232,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1070,40,slow down,0,0,0
+484532,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1065,40,straight,0,0,0
+484833,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1065,40,speed up,0,0,0
+485133,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1070,40,slow down,0,0,0
+485432,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1065,40,overtake,0,0,0
+485732,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1065,40,slow down,0,0,0
+486034,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1060,40,speed up,0,0,0
+486334,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1065,40,speed up,0,0,0
+486635,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1070,40,slow down,0,0,0
+486936,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1065,80,speed up,0,0,0
+487236,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1070,80,speed up,0,0,0
+487537,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1075,80,speed up,0,0,0
+487837,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1080,80,speed up,0,0,0
+488138,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1085,80,speed up,0,0,0
+488438,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1090,80,slow down,0,0,0
+488738,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1085,80,speed up,0,0,0
+489039,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1090,80,speed up,0,0,0
+489339,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1095,80,straight,0,0,0
+489639,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1095,80,straight,0,0,0
+489941,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1095,80,speed up,0,0,0
+490241,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1100,80,speed up,0,0,0
+490541,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1105,80,slow down,0,0,0
+490842,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1100,80,overtake,0,0,0
+491143,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1100,80,speed up,0,0,0
+491443,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1105,80,straight,0,0,0
+491744,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1105,80,slow down,0,0,0
+492045,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1100,80,speed up,0,0,0
+492346,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1105,80,speed up,0,0,0
+492646,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1110,80,slow down,0,0,0
+492947,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1105,80,overtake,0,0,0
+493247,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1105,80,speed up,0,0,0
+493548,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1110,80,speed up,0,0,0
+493849,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1115,80,speed up,0,0,0
+494150,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1120,80,straight,0,0,0
+494450,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1120,80,speed up,0,0,0
+494750,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1125,80,speed up,0,0,0
+495052,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1130,80,slow down,0,0,0
+495352,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1125,80,speed up,0,0,0
+495652,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1130,80,slow down,0,0,0
+495953,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1125,50,speed up,0,0,0
+496253,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1130,50,speed up,0,0,0
+496553,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1135,50,overtake,0,0,0
+496855,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1135,50,overtake,0,0,0
+497155,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1135,50,speed up,0,0,0
+497456,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1140,50,speed up,0,0,0
+497756,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1145,50,straight,0,0,0
+498057,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1145,50,overtake,0,0,0
+498358,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1145,50,speed up,0,0,0
+498658,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1150,50,slow down,0,0,0
+498958,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1145,50,overtake,0,0,0
+499261,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1145,50,speed up,0,0,0
+499561,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1150,50,speed up,0,0,0
+499861,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1155,50,speed up,0,0,0
+500162,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1160,50,overtake,0,0,0
+500462,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1160,50,slow down,0,0,0
+500763,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1155,50,slow down,0,0,0
+501064,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1150,50,speed up,0,0,0
+501365,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1155,50,slow down,0,0,0
+501665,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1150,50,speed up,0,0,0
+501966,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1155,50,speed up,0,0,0
+502267,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1160,50,speed up,0,0,0
+502568,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1165,50,speed up,0,0,0
+502868,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1170,50,slow down,0,0,0
+503169,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1165,50,slow down,0,0,0
+503469,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1160,50,speed up,0,0,0
+503770,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1165,50,speed up,0,0,0
+504071,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1170,50,straight,0,0,0
+504371,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1170,50,straight,0,0,0
+504672,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1170,50,slow down,0,0,0
+504972,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1165,40,speed up,0,0,0
+505274,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1170,40,speed up,0,0,0
+505574,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1175,40,slow down,0,0,0
+505874,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1170,40,speed up,0,0,0
+506174,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1175,40,speed up,0,0,0
+506475,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1180,40,slow down,0,0,0
+506776,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1175,40,speed up,0,0,0
+507076,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1180,40,speed up,0,0,0
+507376,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1185,40,speed up,0,0,0
+507678,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1190,40,speed up,0,0,0
+507979,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1195,40,overtake,0,0,0
+508280,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1195,40,speed up,0,0,0
+508580,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1200,40,speed up,0,0,0
+508880,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,right,1205,40,speed up,0,0,0
+509180,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1210,40,speed up,0,0,0
+509481,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1215,40,speed up,0,0,0
+509781,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1220,40,speed up,0,0,0
+510082,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1225,40,slow down,0,0,0
+510383,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1220,40,slow down,0,0,0
+510683,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1215,40,slow down,0,0,0
+510984,speed=AboveLimitTimeToCollision=0,speed=AboveLimitTimeToCollision=0,left,1210,40,speed up,0,0,0

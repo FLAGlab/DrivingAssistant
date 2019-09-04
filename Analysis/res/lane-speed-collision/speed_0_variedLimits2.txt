@@ -1,0 +1,658 @@
+state 0:  ["right","20","60"]
+ 	priority:1 -> actions: ["0","0"]
+ 	
+state 1:  ["right","15","60"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","1"]
+ 	
+state 2:  ["right","10","60"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["0","0","0","0"]
+ 	
+state 3:  ["left","15","60"]
+ 	priority:4 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["0","2"]
+ 	
+state 4:  ["left","10","60"]
+ 	priority:3 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 5:  ["right","5","60"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 6:  ["right","0","60"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["0","0"]
+ 	
+state 7:  ["left","5","60"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["2"]
+ 	priority:1 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["0","0","0"]
+ 	
+state 8:  ["left","0","60"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["0","0"]
+ 	
+state 9:  ["left","20","60"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 10:  ["right","5","30"]
+ 	priority:2 -> actions: ["0","0"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 11:  ["right","10","30"]
+ 	priority:2 -> actions: ["1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 12:  ["right","15","30"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["0","0"]
+ 	
+state 13:  ["left","20","30"]
+ 	priority:2 -> actions: ["1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 14:  ["right","20","30"]
+ 	priority:29 -> actions: ["1","1","1","1","0","0"]
+ 	priority:14 -> actions: ["1","1","1","0","0"]
+ 	priority:3 -> actions: ["1"]
+ 	priority:3 -> actions: ["1","1","1"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","0","0","0"]
+ 	priority:1 -> actions: ["1","0","0"]
+ 	priority:1 -> actions: ["1","1"]
+ 	priority:1 -> actions: ["0","0"]
+ 	
+state 15:  ["right","0","30"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 16:  ["left","10","30"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 17:  ["right","25","30"]
+ 	priority:46 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 18:  ["left","30","30"]
+ 	priority:51 -> actions: ["1"]
+ 	priority:27 -> actions: ["0"]
+ 	priority:20 -> actions: ["2"]
+ 	priority:1 -> actions: ["2","2","1","1"]
+ 	priority:1 -> actions: ["2","1","1"]
+ 	
+state 19:  ["left","35","30"]
+ 	priority:48 -> actions: ["0"]
+ 	priority:21 -> actions: ["2","1","1"]
+ 	priority:18 -> actions: ["2","2","1","1"]
+ 	priority:11 -> actions: ["1"]
+ 	priority:2 -> actions: ["2","2"]
+ 	priority:1 -> actions: ["2"]
+ 	priority:1 -> actions: ["2","1"]
+ 	
+state 20:  ["left","0","30"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 21:  ["left","5","30"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 22:  ["left","25","60"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 23:  ["left","30","60"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 24:  ["right","35","60"]
+ 	priority:1 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["1","1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 25:  ["right","40","60"]
+ 	priority:9 -> actions: ["1","1","0","0"]
+ 	priority:6 -> actions: ["1","1","1","0","0"]
+ 	priority:3 -> actions: ["1","0","0"]
+ 	priority:2 -> actions: ["1"]
+ 	priority:2 -> actions: ["1","1","1"]
+ 	priority:1 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["1","1","1","1","0","0"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 26:  ["left","40","60"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 27:  ["left","45","60"]
+ 	priority:24 -> actions: ["1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 28:  ["left","50","60"]
+ 	priority:18 -> actions: ["1"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:2 -> actions: ["1","1"]
+ 	
+state 29:  ["left","55","60"]
+ 	priority:10 -> actions: ["1"]
+ 	priority:9 -> actions: ["0"]
+ 	priority:4 -> actions: ["1","1"]
+ 	
+state 30:  ["left","20","40"]
+ 	priority:4 -> actions: ["0"]
+ 	
+state 31:  ["left","25","40"]
+ 	priority:3 -> actions: ["2"]
+ 	
+state 32:  ["left","30","40"]
+ 	priority:34 -> actions: ["1"]
+ 	priority:3 -> actions: ["2","1","1"]
+ 	
+state 33:  ["right","25","40"]
+ 	priority:23 -> actions: ["1","1","1","0","0"]
+ 	priority:7 -> actions: ["1","1","1","1","0","0"]
+ 	priority:2 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["1","1","0","0"]
+ 	priority:1 -> actions: ["1","1","1"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","1","1","0"]
+ 	
+state 34:  ["right","20","40"]
+ 	priority:1 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["1","1"]
+ 	
+state 35:  ["left","0","40"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 36:  ["left","5","40"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 37:  ["left","10","40"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 38:  ["left","15","40"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 39:  ["right","30","40"]
+ 	priority:29 -> actions: ["0"]
+ 	priority:5 -> actions: ["2"]
+ 	
+state 40:  ["right","35","40"]
+ 	priority:18 -> actions: ["0"]
+ 	priority:15 -> actions: ["2"]
+ 	
+state 41:  ["left","40","40"]
+ 	priority:26 -> actions: ["0"]
+ 	priority:11 -> actions: ["1"]
+ 	priority:10 -> actions: ["2","1","1"]
+ 	priority:7 -> actions: ["2","2","1","1"]
+ 	priority:1 -> actions: ["2","1"]
+ 	priority:1 -> actions: ["1","1"]
+ 	
+state 42:  ["left","45","40"]
+ 	priority:18 -> actions: ["0"]
+ 	priority:6 -> actions: ["2","1","1"]
+ 	priority:5 -> actions: ["1"]
+ 	priority:1 -> actions: ["0","2"]
+ 	
+state 43:  ["left","50","50"]
+ 	priority:42 -> actions: ["0"]
+ 	priority:17 -> actions: ["1"]
+ 	priority:17 -> actions: ["1","1"]
+ 	
+state 44:  ["left","45","50"]
+ 	priority:32 -> actions: ["1"]
+ 	priority:10 -> actions: ["1","1"]
+ 	priority:4 -> actions: ["2","1","1"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 45:  ["left","40","50"]
+ 	priority:47 -> actions: ["1"]
+ 	priority:15 -> actions: ["1","1"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 46:  ["right","35","50"]
+ 	priority:45 -> actions: ["1","1","1","0","0"]
+ 	priority:7 -> actions: ["1","0","0"]
+ 	priority:3 -> actions: ["0"]
+ 	priority:2 -> actions: ["1","1","1"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["1","1","1","1","0","0"]
+ 	priority:1 -> actions: ["1","1","1","0"]
+ 	priority:1 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["1","0"]
+ 	priority:1 -> actions: ["1","1"]
+ 	
+state 47:  ["right","40","50"]
+ 	priority:38 -> actions: ["0"]
+ 	priority:16 -> actions: ["2","2"]
+ 	priority:2 -> actions: ["2"]
+ 	
+state 48:  ["right","45","50"]
+ 	priority:26 -> actions: ["0"]
+ 	priority:11 -> actions: ["2"]
+ 	
+state 49:  ["left","50","30"]
+ 	priority:3 -> actions: ["1","1"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["2"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 50:  ["left","45","30"]
+ 	priority:4 -> actions: ["1"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["2"]
+ 	priority:1 -> actions: ["2","1","1"]
+ 	
+state 51:  ["right","40","30"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","1"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 52:  ["right","35","30"]
+ 	priority:5 -> actions: ["0"]
+ 	priority:3 -> actions: ["1"]
+ 	
+state 53:  ["right","30","30"]
+ 	priority:23 -> actions: ["0"]
+ 	priority:23 -> actions: ["2"]
+ 	priority:3 -> actions: ["1"]
+ 	
+state 54:  ["left","25","30"]
+ 	priority:51 -> actions: ["1"]
+ 	priority:2 -> actions: ["2"]
+ 	
+state 55:  ["left","40","30"]
+ 	priority:7 -> actions: ["1"]
+ 	priority:2 -> actions: ["2","2","1","1"]
+ 	priority:1 -> actions: ["1","1"]
+ 	
+state 56:  ["left","35","40"]
+ 	priority:30 -> actions: ["1"]
+ 	priority:5 -> actions: ["2","1","1"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 57:  ["left","50","40"]
+ 	priority:2 -> actions: ["1"]
+ 	priority:1 -> actions: ["1","1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 58:  ["left","45","80"]
+ 	priority:3 -> actions: ["1"]
+ 	priority:1 -> actions: ["2"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 59:  ["left","40","80"]
+ 	priority:5 -> actions: ["1"]
+ 	priority:2 -> actions: ["2"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 60:  ["right","45","80"]
+ 	priority:4 -> actions: ["1","1","1","0","0"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:2 -> actions: ["1","1","1","1","0","0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 61:  ["right","50","80"]
+ 	priority:5 -> actions: ["1"]
+ 	priority:5 -> actions: ["0"]
+ 	priority:4 -> actions: ["1","1","1","0","0"]
+ 	
+state 62:  ["right","55","80"]
+ 	priority:21 -> actions: ["1","1","0","0"]
+ 	priority:17 -> actions: ["1","1","1","1","0","0"]
+ 	priority:10 -> actions: ["1","0","0"]
+ 	priority:6 -> actions: ["0"]
+ 	priority:4 -> actions: ["1"]
+ 	priority:2 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["1","1","0"]
+ 	priority:1 -> actions: ["1","1","1","0","0"]
+ 	priority:1 -> actions: ["1","1","1","1","0"]
+ 	priority:1 -> actions: ["1","0"]
+ 	
+state 63:  ["left","60","80"]
+ 	priority:33 -> actions: ["1"]
+ 	priority:5 -> actions: ["0"]
+ 	
+state 64:  ["left","65","80"]
+ 	priority:20 -> actions: ["1"]
+ 	priority:8 -> actions: ["0"]
+ 	
+state 65:  ["right","60","80"]
+ 	priority:40 -> actions: ["0"]
+ 	priority:15 -> actions: ["1"]
+ 	
+state 66:  ["right","65","80"]
+ 	priority:19 -> actions: ["0"]
+ 	priority:16 -> actions: ["1"]
+ 	
+state 67:  ["left","70","80"]
+ 	priority:19 -> actions: ["0"]
+ 	priority:18 -> actions: ["1"]
+ 	
+state 68:  ["left","75","80"]
+ 	priority:12 -> actions: ["1"]
+ 	priority:11 -> actions: ["0"]
+ 	
+state 69:  ["left","80","80"]
+ 	priority:15 -> actions: ["0"]
+ 	priority:10 -> actions: ["1"]
+ 	
+state 70:  ["left","85","80"]
+ 	priority:9 -> actions: ["0"]
+ 	priority:6 -> actions: ["1"]
+ 	
+state 71:  ["left","80","70"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 72:  ["left","75","70"]
+ 	priority:17 -> actions: ["0"]
+ 	priority:7 -> actions: ["1"]
+ 	
+state 73:  ["left","70","70"]
+ 	priority:23 -> actions: ["0"]
+ 	priority:17 -> actions: ["1"]
+ 	
+state 74:  ["left","65","70"]
+ 	priority:21 -> actions: ["1"]
+ 	priority:16 -> actions: ["0"]
+ 	
+state 75:  ["left","60","70"]
+ 	priority:19 -> actions: ["1"]
+ 	priority:8 -> actions: ["0"]
+ 	
+state 76:  ["left","0","70"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 77:  ["left","5","70"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 78:  ["left","10","70"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 79:  ["left","15","70"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 80:  ["left","20","70"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 81:  ["left","25","70"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 82:  ["left","30","70"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 83:  ["left","35","70"]
+ 	priority:2 -> actions: ["2"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 84:  ["left","40","70"]
+ 	priority:3 -> actions: ["1"]
+ 	priority:3 -> actions: ["0"]
+ 	priority:2 -> actions: ["2"]
+ 	
+state 85:  ["left","45","70"]
+ 	priority:3 -> actions: ["0"]
+ 	priority:2 -> actions: ["1"]
+ 	
+state 86:  ["left","50","70"]
+ 	priority:6 -> actions: ["0"]
+ 	
+state 87:  ["left","55","70"]
+ 	priority:23 -> actions: ["1"]
+ 	priority:9 -> actions: ["0"]
+ 	priority:2 -> actions: ["1","1"]
+ 	
+state 88:  ["right","50","70"]
+ 	priority:21 -> actions: ["1","1","1","0","0"]
+ 	priority:6 -> actions: ["1","0","0"]
+ 	priority:6 -> actions: ["0"]
+ 	priority:4 -> actions: ["1","1","0","0"]
+ 	priority:2 -> actions: ["1","1","0"]
+ 	priority:2 -> actions: ["1"]
+ 	priority:2 -> actions: ["1","1","1","0"]
+ 	priority:2 -> actions: ["0","0"]
+ 	priority:1 -> actions: ["1","1","1","1","0","0"]
+ 	priority:1 -> actions: ["1","1","1"]
+ 	
+state 89:  ["right","55","70"]
+ 	priority:23 -> actions: ["0"]
+ 	priority:11 -> actions: ["1","1"]
+ 	priority:2 -> actions: ["1"]
+ 	
+state 90:  ["right","60","70"]
+ 	priority:15 -> actions: ["0"]
+ 	priority:6 -> actions: ["1"]
+ 	
+state 91:  ["right","65","70"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 92:  ["right","55","40"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","1"]
+ 	
+state 93:  ["right","50","40"]
+ 	priority:1 -> actions: ["1","1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 94:  ["left","35","50"]
+ 	priority:4 -> actions: ["1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 95:  ["left","55","50"]
+ 	priority:33 -> actions: ["0"]
+ 	priority:9 -> actions: ["1","1"]
+ 	priority:6 -> actions: ["1"]
+ 	
+state 96:  ["right","55","60"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 97:  ["right","50","60"]
+ 	priority:10 -> actions: ["0"]
+ 	priority:5 -> actions: ["1"]
+ 	
+state 98:  ["right","45","60"]
+ 	priority:18 -> actions: ["0"]
+ 	priority:3 -> actions: ["2","1"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 99:  ["left","60","60"]
+ 	priority:11 -> actions: ["1"]
+ 	priority:11 -> actions: ["0"]
+ 	
+state 100:  ["left","65","60"]
+ 	priority:9 -> actions: ["0"]
+ 	priority:3 -> actions: ["1"]
+ 	
+state 101:  ["right","20","80"]
+ 	priority:1 -> actions: ["1","0","0"]
+ 	priority:1 -> actions: ["1","1","0","0"]
+ 	priority:1 -> actions: ["1","1","1","0","0"]
+ 	
+state 102:  ["right","25","80"]
+ 	priority:3 -> actions: ["0"]
+ 	priority:2 -> actions: ["1","1","1","1","0","0"]
+ 	
+state 103:  ["right","30","80"]
+ 	priority:3 -> actions: ["2"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 104:  ["left","35","80"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:2 -> actions: ["2"]
+ 	
+state 105:  ["left","0","80"]
+ 	priority:4 -> actions: ["0"]
+ 	
+state 106:  ["left","5","80"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 107:  ["left","10","80"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 108:  ["left","15","80"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 109:  ["left","20","80"]
+ 	priority:3 -> actions: ["0"]
+ 	
+state 110:  ["left","25","50"]
+ 	priority:1 -> actions: ["2"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 111:  ["left","30","50"]
+ 	priority:2 -> actions: ["2"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 112:  ["right","40","80"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["1","1","0","0"]
+ 	
+state 113:  ["left","65","50"]
+ 	priority:2 -> actions: ["1"]
+ 	
+state 114:  ["left","60","50"]
+ 	priority:4 -> actions: ["1"]
+ 	
+state 115:  ["left","0","50"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 116:  ["left","5","50"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 117:  ["left","10","50"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 118:  ["left","15","50"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 119:  ["left","20","50"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 120:  ["right","35","80"]
+ 	priority:2 -> actions: ["2"]
+ 	priority:2 -> actions: ["1","1","1","1","0","0"]
+ 	
+state 121:  ["right","25","70"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","1","0","0"]
+ 	priority:1 -> actions: ["1","1","1","1","0","0"]
+ 	
+state 122:  ["right","30","70"]
+ 	priority:4 -> actions: ["0"]
+ 	priority:1 -> actions: ["2"]
+ 	
+state 123:  ["right","35","70"]
+ 	priority:1 -> actions: ["2"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["0","0"]
+ 	
+state 124:  ["right","50","50"]
+ 	priority:5 -> actions: ["0"]
+ 	priority:3 -> actions: ["1"]
+ 	
+state 125:  ["right","55","50"]
+ 	priority:3 -> actions: ["0"]
+ 	priority:2 -> actions: ["1"]
+ 	
+state 126:  ["left","50","80"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 127:  ["left","55","80"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 128:  ["left","25","80"]
+ 	priority:2 -> actions: ["2"]
+ 	
+state 129:  ["left","30","80"]
+ 	priority:2 -> actions: ["1"]
+ 	
+state 130:  ["right","40","40"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 131:  ["right","45","40"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 132:  ["right","45","70"]
+ 	priority:3 -> actions: ["1","1","1","1","0","0"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","1","1","0","0"]
+ 	priority:1 -> actions: ["1","1","0","0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 133:  ["right","40","70"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["1","0","0"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1","1","1","1","0","0"]
+ 	
+state 134:  ["left","70","60"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 135:  ["right","60","30"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 136:  ["right","55","30"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 137:  ["right","65","40"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 138:  ["left","60","40"]
+ 	priority:2 -> actions: ["1"]
+ 	
+state 139:  ["left","55","40"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 140:  ["right","60","50"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 141:  ["left","70","30"]
+ 	priority:2 -> actions: ["0"]
+ 	
+state 142:  ["left","65","30"]
+ 	priority:1 -> actions: ["1"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 143:  ["left","60","30"]
+ 	priority:1 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 144:  ["left","55","30"]
+ 	priority:2 -> actions: ["0"]
+ 	priority:1 -> actions: ["1"]
+ 	
+state 145:  ["right","20","70"]
+ 	priority:1 -> actions: ["1","1","1","0","0"]
+ 	priority:1 -> actions: ["1","0","0"]
+ 	
+state 146:  ["left","15","30"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 147:  ["right","25","50"]
+ 	priority:1 -> actions: ["1","1","1","1","0","0"]
+ 	
+state 148:  ["right","30","50"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 149:  ["right","60","60"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 150:  ["right","65","60"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 151:  ["right","50","30"]
+ 	priority:1 -> actions: ["0"]
+ 	
+state 152:  ["right","45","30"]
+ 	priority:1 -> actions: ["0"]
+ 	

@@ -1,0 +1,96 @@
+state 0:  ["left","20","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 1:  ["left","25","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 2:  ["left","30","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 3:  ["left","35","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 4:  ["left","40","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 5:  ["left","45","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 6:  ["left","50","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 7:  ["left","55","2"]
+ 	priority:10 -> actions: ["slow down"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 8:  ["left","60","2"]
+ 	priority:300 -> actions: ["speed up"]
+ 	priority:133 -> actions: ["slow down"]
+ 	
+state 9:  ["left","50","1"]
+ 	priority:6 -> actions: ["slow down"]
+ 	
+state 10:  ["right","45","1"]
+ 	priority:6 -> actions: ["overtake","overtake"]
+ 	
+state 11:  ["right","45","0"]
+ 	priority:6 -> actions: ["overtake","speed up"]
+ 	priority:4 -> actions: ["speed up"]
+ 	
+state 12:  ["right","50","0"]
+ 	priority:123 -> actions: ["overtake","speed up"]
+ 	priority:10 -> actions: ["speed up"]
+ 	
+state 13:  ["right","55","0"]
+ 	priority:129 -> actions: ["speed up"]
+ 	priority:2 -> actions: ["overtake","speed up"]
+ 	
+state 14:  ["left","60","0"]
+ 	priority:259 -> actions: ["speed up"]
+ 	
+state 15:  ["left","65","0"]
+ 	priority:547 -> actions: ["slow down"]
+ 	
+state 16:  ["left","65","2"]
+ 	priority:134 -> actions: ["slow down"]
+ 	
+state 17:  ["left","55","1"]
+ 	priority:123 -> actions: ["slow down"]
+ 	
+state 18:  ["right","50","1"]
+ 	priority:123 -> actions: ["overtake","overtake"]
+ 	
+state 19:  ["right","60","0"]
+ 	priority:290 -> actions: ["speed up"]
+ 	priority:166 -> actions: ["overtake","speed up"]
+ 	
+state 20:  ["left","65","1"]
+ 	priority:166 -> actions: ["slow down"]
+ 	
+state 21:  ["right","60","1"]
+ 	priority:166 -> actions: ["overtake","overtake"]
+ 	
+state 22:  ["right","65","0"]
+ 	priority:168 -> actions: ["slow down"]
+ 	
+state 23:  ["left","50","2"]
+ 	priority:4 -> actions: ["slow down"]
+ 	
+state 24:  ["left","45","1"]
+ 	priority:4 -> actions: ["slow down"]
+ 	
+state 25:  ["right","40","1"]
+ 	priority:4 -> actions: ["overtake","overtake"]
+ 	
+state 26:  ["right","40","0"]
+ 	priority:4 -> actions: ["overtake","speed up"]
+ 	
+state 27:  ["left","55","0"]
+ 	priority:4 -> actions: ["speed up"]
+ 	
+state 28:  ["left","60","1"]
+ 	priority:2 -> actions: ["slow down"]
+ 	
+state 29:  ["right","55","1"]
+ 	priority:2 -> actions: ["overtake","overtake"]
+ 	

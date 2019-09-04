@@ -1,0 +1,22 @@
+"speed=20-40TimeToCollision=0":{"1":0,"2":-10,"3":0,"4":0.00005540403260097335,"5":-8.827600562282822},no
+"speed=0-20TimeToCollision=0":{"1":0,"2":-10,"3":0,"4":-10,"5":0.00010270552245512924}, ok
+"speed=0TimeToCollision=0":{"1":-10,"2":-10,"3":-10,"4":-10,"5":0.0048163660318062025}, ok
+"speed=40-60TimeToCollision=0":{"1":0,"2":0,"3":0,"4":0,"5":101.2212390542228}, ok
+"speed=40-60TimeToCollision=2":{"1":0,"2":-9.999993588295462,"3":0,"4":0.1068498802074534,"5":0}, //slow down first, guess ok
+"speed=40-60TimeToCollision=1":{"1":-9.999990315875783,"2":-10,"3":9.608611491014118,"4":-9.999998488292585,"5":-9.442638468435023},//ok
+"speed=60TimeToCollision=0":{"1":0,"2":0,"3":0,"4":10.16823998674421,"5":0}, //no. slow down. guess should just go straight as 60 is ok for speed limit?
+"speed=60TimeToCollision=2":{"1":89.15253328387817,"2":0,"3":0,"4":0,"5":0}, ok (but in other cases it slows down when it sees a car)
+"speed=60TimeToCollision=1":{"1":-0.6995565443613163,"2":-9.999956761890871,"3":101.02616474650505,"4":-9.093029921595749,"5":-9.999958146057978},//ok
+"speed=60+TimeToCollision=1":{"1":0,"2":0,"3":0,"4":-10,"5":0}, // overtake
+"speed=60+TimeToCollision=0":{"1":0,"2":-9.99996385235896,"3":0,"4":0,"5":0}, //same here
+"speed=60+TimeToCollision=2":{"1":0,"2":-10,"3":0,"4":0,"5":0},//should be slow down. guess didnt get to this stte much
+"speed=20-40TimeToCollision=2":{"sp{"1":0,"2":0,"3":0.00025492144209908723,"4":0,"5":-9.96298616223973},//how is it overtake?
+"speed=20-40TimeToCollision=1":{"1":0,"2":0,"3":0.029016839683314546,"4":0,"5":-9.999983670777333}}//ok
+
+didnt explore 60+ speed much
+
+Straight	1
+Stop	2
+Overtake	3
+Slow down	4
+Speed up	5

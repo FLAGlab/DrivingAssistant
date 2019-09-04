@@ -1,0 +1,3 @@
+state 0:  ["left","0"]
+ 	priority:1 -> actions: ["slow down","slow down","slow down","slow down","overtake","Speed up","slow down","slow down","slow down","overtake","Speed up","slow down","slow down","slow down","overtake","Speed up","slow down","slow down","slow down","overtake","Speed up","slow down"]
+ 	

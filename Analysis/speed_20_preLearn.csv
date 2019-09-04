@@ -1,0 +1,1399 @@
+302,speed=20-40TimeToCollision=0,speed=20-40TimeToCollision=0,left,20,0,speed up,0,0.36134307154259093
+600,speed=20-40TimeToCollision=0,speed=20-40TimeToCollision=0,left,25,0,speed up,0,0.32882219510375776
+900,speed=20-40TimeToCollision=0,speed=20-40TimeToCollision=0,left,30,0,speed up,0,0.29922819754441954
+1200,speed=20-40TimeToCollision=0,speed=40-60TimeToCollision=0,left,35,0,speed up,0,1.3804164889010393
+1501,speed=40-60TimeToCollision=0,speed=40-60TimeToCollision=2,left,40,2,speed up,0,100.00025459788439
+1801,speed=40-60TimeToCollision=2,speed=40-60TimeToCollision=2,left,45,2,slow down,0,0.023168407884651576
+2102,speed=40-60TimeToCollision=2,speed=20-40TimeToCollision=2,left,40,2,slow down,0,0.02092720502244699
+2402,speed=20-40TimeToCollision=2,speed=20-40TimeToCollision=0,left,35,0,slow down,0,0.02061157825246184
+2703,speed=20-40TimeToCollision=0,speed=20-40TimeToCollision=1,left,30,1,speed up,0,1.242424930721643
+3003,speed=20-40TimeToCollision=1,speed=20-40TimeToCollision=1,right,35,1,overtake,0,0.004558254674403289
+3304,speed=20-40TimeToCollision=1,speed=20-40TimeToCollision=0,right,35,0,overtake,0,0.01652667851417939
+3605,speed=20-40TimeToCollision=0,speed=40-60TimeToCollision=0,left,35,0,speed up,0,2.1181849836283226
+3906,speed=40-60TimeToCollision=0,speed=40-60TimeToCollision=0,left,40,0,speed up,0,91.00023168407479
+4206,speed=40-60TimeToCollision=0,speed=40-60TimeToCollision=2,left,45,2,speed up,0,81.90041778771754
+4506,speed=40-60TimeToCollision=2,speed=40-60TimeToCollision=2,left,50,2,slow down,0,0.01904375657042676
+4807,speed=40-60TimeToCollision=2,speed=40-60TimeToCollision=2,left,45,2,slow down,0,0.017329818479088353
+5108,speed=40-60TimeToCollision=2,speed=20-40TimeToCollision=2,left,40,2,slow down,0,0.015802952413704136
+5408,speed=20-40TimeToCollision=2,speed=20-40TimeToCollision=2,left,35,2,slow down,0,0.018756536209740274
+5709,speed=20-40TimeToCollision=2,speed=20-40TimeToCollision=0,left,30,0,slow down,0,0.03806273242504948
+6009,speed=20-40TimeToCollision=0,speed=20-40TimeToCollision=1,left,25,1,speed up,0,1.9065317520506322
+6310,speed=20-40TimeToCollision=1,speed=20-40TimeToCollision=1,right,30,1,overtake,0,0.015039277447903244
+6610,speed=20-40TimeToCollision=1,speed=20-40TimeToCollision=0,right,30,0,overtake,0,0.03260066722361924
+6911,speed=20-40TimeToCollision=0,speed=20-40TimeToCollision=0,left,30,0,speed up,0,1.7349438943660753
+7211,speed=20-40TimeToCollision=0,speed=40-60TimeToCollision=0,left,35,0,speed up,0,2.3804536828066434
+7512,speed=40-60TimeToCollision=0,speed=40-60TimeToCollision=0,left,40,0,speed up,0,74.52938018682296
+7812,speed=40-60TimeToCollision=0,speed=40-60TimeToCollision=0,left,45,0,speed up,0,67.8217359700089
+8113,speed=40-60TimeToCollision=0,speed=40-60TimeToCollision=0,left,50,0,speed up,0,61.7177797327081
+8414,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,66.6571128705484
+8714,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072437077705
+9015,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376304481019
+9315,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111111110864058
+9616,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.666571128690698
+9917,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,71.10251269460467
+10217,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072437077728
+10518,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376304481041
+10818,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1066657112646723
+11119,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.310939142767674
+11420,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,75.1033725362553
+11721,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072437077747
+12021,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03371859081237
+12322,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0991085315658817
+12622,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.03087895385346
+12923,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,78.70414639374088
+13223,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58068391763926
+13524,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03360661119099
+13825,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0895064679478281
+14127,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.814832522405522
+14427,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,81.94484286547791
+14728,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+15028,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+15329,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+15629,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+15930,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+16231,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5805820161838
+16532,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03341887924489
+16832,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0787041463771005
+17133,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.65279769881975
+17434,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,84.86146969004123
+17734,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+18034,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+18335,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58041118011285
+18635,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03315710356533
+18936,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.067361708727588
+19237,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.536132625838187
+19538,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,87.48643383214822
+19838,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58017296424445
+20139,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03282928490728
+20439,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.055986864113211
+20740,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.45738370157585
+21041,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,89.84890156004451
+21341,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+21642,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+21943,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+22243,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+22544,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+22845,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+23145,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57987464926562
+23446,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03244705298019
+23747,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0449620147176484
+24048,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.41013434701871
+24348,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,91.97512251515117
+24649,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+24949,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+25250,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+25551,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+25851,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57952681821197
+26151,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03202375653795
+26452,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0345671567160706
+26752,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.38887213746835
+27053,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,93.88872137474716
+27354,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+27654,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+27955,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+28256,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+28557,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+28856,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57914161844954
+29157,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03157312817174
+29458,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.024999162419147
+29758,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.388872137468987
+30059,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,95.61096034838356
+30359,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+30660,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+30961,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+31262,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57873154663629
+31562,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03110838359686
+31864,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.016387967551922
+32165,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.406094527205923
+32466,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,97.16097542465631
+32766,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57830862907315
+33067,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03064164584136
+33367,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.008810116068789
+33668,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.437094828731894
+33969,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,98.5559889933018
+34270,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+34570,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+34871,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+35172,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+35473,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+35773,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57788389771564
+36074,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03018360910477
+36375,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.002300052749229
+36676,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.478945235791723
+36976,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,99.81150120508272
+37277,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+37578,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57746708428533
+37878,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02974337638429
+38179,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9968594998322233
+38480,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.529165724263379
+38781,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,100.94146219568556
+39081,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+39382,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+39684,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+39984,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5770664725097
+40284,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02932842025706
+40585,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9924652070916348
+40886,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.585663773793897
+41187,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,101.95842708722812
+41488,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+41788,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57668886243393
+42089,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02894462826146
+42389,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9890753241204102
+42690,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.646681667286789
+42991,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,102.87369548961641
+43292,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+43593,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+43893,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+44194,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+44495,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57633961171793
+44796,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02859640378733
+45096,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9866346083812371
+45397,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.710750455454274
+45698,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,103.69743705176587
+45999,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57602272744647
+46300,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02828680078564
+46601,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9850786520976561
+46901,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.776649780426506
+47202,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,104.4388044577004
+47502,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+47803,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+48103,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57574098871493
+48404,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02801767636441
+48705,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9843372846921555
+49006,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.84337284696086
+49308,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,105.10603512304147
+49608,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+49909,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57549608549162
+50210,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02778984978939
+50510,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9843372846925486
+50810,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.910095913495187
+51112,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,105.70654272184842
+51411,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57528876330834
+51712,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02760325982443
+52013,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9850045153582456
+52314,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,9.976151749364153
+52614,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,106.2469995607747
+52915,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+53216,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+53517,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+53817,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57511896644023
+54118,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02745711494978
+54418,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9862655813160626
+54719,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.041006570035485
+55020,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,106.73341071580833
+55320,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+55621,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+55922,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+56223,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5749859746043
+56524,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02735003295703
+56824,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9880490888848111
+57125,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.10424002019002
+57426,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,107.17118075533861
+57726,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+58027,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+58328,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+58629,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+58930,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5748885299909
+59231,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02728016788066
+59531,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9902865801982302
+59832,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.165527825724403
+60133,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,107.56517379091586
+60433,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57482495277141
+60734,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02724532329626
+61034,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9929132004356512
+61335,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.224626781061122
+61636,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,107.91976752293539
+61937,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+62237,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+62538,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5747932441996
+62839,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.027243051784
+63139,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9958681482026973
+63440,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.281361778184364
+63741,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,108.23890188175295
+64042,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+64343,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+64644,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+64944,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57479117712344
+65245,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02727074089313
+65546,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,0.9990949511642713
+65847,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.335614619183456
+66148,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,108.52612280468877
+66448,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57481637421274
+66750,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02732568630312
+67051,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0025416022396787
+67351,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.387314385312
+67652,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,108.784621635331
+67952,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57486637453583
+68253,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02740515310464
+68554,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0061605858688307
+68855,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.43642916313411
+69156,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,109.01727058290902
+69456,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+69757,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57493868932522
+70058,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02750642625139
+70359,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0099088189132888
+70660,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.482958952649788
+70961,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,109.22665463572923
+71262,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+71562,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57503084788877
+71862,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02762685128903
+72163,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0137475265484577
+72464,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.526929603742103
+72765,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,109.41510028326742
+73066,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+73366,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+73668,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+73968,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57514043467302
+74268,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0277638664712
+74569,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.017642069931033
+74870,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.568387646200566
+75171,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,109.58470136605179
+75471,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+75771,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5752651184888
+76072,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02791502733923
+76373,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0215617393999352
+76673,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.607395895241028
+76975,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,109.73734234055772
+77274,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5754026748787
+77575,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02807802478483
+77876,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.025479524412352
+78177,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.644029729122503
+78478,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,109.87471921761306
+78778,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57555100255419
+79079,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0282506975429
+79380,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.029371869262342
+79680,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.678373948386383
+79981,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,109.99835840696286
+80282,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+80582,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57570813476404
+80883,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02843103998026
+81184,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0332184218199716
+81485,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.710520137617374
+81786,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.10963367737769
+82087,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+82388,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+82688,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57587224638203
+82988,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02861720596204
+83289,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.037001781014148
+83590,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.740564460629415
+83890,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.20978142075103
+84192,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+84493,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+84794,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+85095,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+85396,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+85697,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+85997,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57604165742545
+86298,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02880750949305
+86599,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0407072475190273
+86900,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.768605828773984
+87201,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.29991438978703
+87501,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57621483363867
+87802,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02900042275
+88103,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0443225810548644
+88404,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.794744389794456
+88705,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.38103406191944
+89005,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+89306,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+89606,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5763903847025
+89907,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0291945720428
+90208,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0478377668473224
+90509,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.819080291434204
+90809,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.4540417668386
+91109,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57656706055894
+91409,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02938873217153
+91709,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0512447930769322
+92009,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.84171267995917
+92310,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.51974870126585
+92610,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+92911,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+93212,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+93513,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+93814,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+94114,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+94414,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5767437462761
+94714,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02958181957925
+95015,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0545374405688306
+95315,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.86273889897591
+95615,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.57888494225038
+95915,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+96216,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+96518,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+96818,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57691945581712
+97118,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02977288464109
+97419,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0577110855017067
+97719,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.882253858500825
+98019,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.63210755913646
+98319,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5770933250234
+98619,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.02996110337608
+98920,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0607625155365443
+99220,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.900349548242106
+99520,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.68000791433393
+99821,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57726460407224
+100121,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03014576882038
+100421,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.063689759465311
+100721,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.917114672561235
+101021,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.72311823401165
+101321,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+101622,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57743264962654
+101922,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03032628225854
+102222,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0664919302443923
+102523,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.932634387645228
+102823,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.7619175217216
+103124,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+103424,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57759691685527
+103724,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0305021444722
+104024,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0691690810964054
+104324,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.94699012409792
+104624,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.79683688066055
+104925,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+105225,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+105525,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5777569514697
+105825,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0306729471337
+106126,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.071722074227744
+106426,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.960259480494734
+106726,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.82826430370561
+107026,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+107327,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+107626,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+107927,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+108227,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+108529,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57791238189166
+108828,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03083836444478
+109128,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.074152461609917
+109428,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.972516175482317
+109728,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.85654898444616
+110029,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+110329,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+110629,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+110929,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57806291164475
+111230,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03099814509638
+111530,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0764623772037485
+111830,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.983830047778547
+112130,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.88200519711266
+112430,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+112730,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+113030,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+113331,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+113630,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+113931,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5782083120377
+114231,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03115210460597
+114532,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.078654439961159
+114833,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,10.994267094971818
+115133,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.90491578851251
+115433,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57834841519143
+115733,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0313001180719
+116033,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0807316669147613
+116334,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.003889543359762
+116633,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.92553532077237
+116934,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+117235,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+117535,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+117835,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+118135,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+118440,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+118738,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+119037,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+119337,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57848310744542
+119637,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03144211337003
+119938,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0826973956568828
+120238,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.012755942231509
+120539,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.94409289980624
+120839,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57861232316674
+121139,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03157806480664
+121439,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0845552155135096
+121739,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.02092127700642
+122039,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.96079472093672
+122340,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57873603897404
+122640,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03170798723177
+122940,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.086308906732223
+123241,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.028437096515146
+123542,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.97582635995416
+123842,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57885426838091
+124142,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03183193061014
+124442,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0879623870241522
+124742,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.035351650463173
+125043,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,110.98935483506985
+125343,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57896705685522
+125643,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03194997503994
+125944,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0895196648263687
+126244,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.041710033767554
+126544,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.00153046267397
+126844,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+127145,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+127446,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+127746,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57907447728634
+128046,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03206222620597
+128346,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0909847986814074
+128646,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.047554335017539
+128946,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.01248852751769
+129247,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+129547,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+129848,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+130148,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+130449,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+130749,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+131049,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57917662584742
+131349,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03216881124949
+131650,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.092361862163442
+131949,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.052923786790963
+132250,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.02235078587702
+132551,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+132851,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57927361823704
+133151,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03226987503497
+133451,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0936549138150076
+133751,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.057854915970637
+134052,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.03122681840043
+134353,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+134653,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+134954,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+135255,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+135555,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+135856,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+136156,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+136457,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+136759,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+137059,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+137374,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+137660,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+137961,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57936558628182
+138261,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03236557679179
+138561,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0948679715932133
+138862,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.062381692557578
+139162,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.03921524767149
+139462,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57945267488053
+139763,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03245608710841
+140064,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0960049913594676
+140364,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.066535675778535
+140664,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.04640483401545
+140964,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+141265,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+141565,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+141865,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+142166,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57953503926866
+142467,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03254158525539
+142767,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0970698489813062
+143067,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.070346156540836
+143368,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.05287546172501
+143668,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5796128425824
+143969,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03262225681398
+144269,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0980663256485839
+144569,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.073840295504002
+144870,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.05869902666362
+145170,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57968625370071
+145471,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03269829158712
+145771,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0989980960387655
+146071,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.077043256220238
+146372,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.06394023510836
+146672,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+146972,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+147273,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+147574,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+147874,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57975544534429
+148174,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03276988177025
+148475,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.0998687189970913
+148775,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.079978332949297
+149075,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.06865732270863
+149376,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+149675,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57982059241093
+149976,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03283722035981
+150277,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1006816304268752
+150577,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.082667072881454
+150878,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.07290270154888
+151178,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57988187052743
+151478,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03290049977896
+151779,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1014401381130021
+152079,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.085129392608797
+152380,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.0767235425051
+152680,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+152981,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+153281,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+153582,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57993945479885
+153882,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03295991070009
+154183,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.10214741822779
+154483,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.087383688772968
+154785,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.08016229936571
+155085,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.57999351873708
+155385,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03301564104565
+155686,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1028065132927407
+155986,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.089446942889328
+156286,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.08325718054024
+156587,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+156887,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58004423335154
+157188,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03306787514931
+157489,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1034203313923598
+157790,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.091334820405798
+158090,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.08604257359733
+158391,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58009176638588
+158691,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03311679306121
+158991,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1039916464571817
+159292,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.093061764101192
+159592,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.08854942734871
+159893,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+160193,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+160494,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5801362816857
+160794,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0331625699817
+161095,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1045230994524755
+161395,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.09464108196456
+161696,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.09080559572494
+161996,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58017793868335
+162297,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03320537580954
+162597,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1050172003268734
+162898,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.096085029725355
+163198,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.09283614726355
+163499,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+163800,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+164100,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+164400,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58021689198668
+164700,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03324537479128
+165001,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1054763305914397
+165302,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.097404888225455
+165602,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.0946636436483
+165903,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+166203,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+166504,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+166804,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+167105,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+167406,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+167706,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58025329106006
+168007,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03328272525997
+168307,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1059027464145503
+168608,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.098611035839392
+168908,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.09630839039458
+169209,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+169511,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58028727998656
+169810,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03331757945205
+170111,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1062985821314892
+170412,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.099713016159399
+170712,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.09778866246623
+171013,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58031899730136
+171313,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03335008339253
+171614,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1066658540799343
+171915,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.100719601168121
+172215,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.09912090733071
+172516,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5803485758872
+172817,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03338037683928
+173117,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1070064646836222
+173417,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.101638850124615
+173718,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10031992770875
+174019,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58037614292374
+174319,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0334085932782
+174620,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.107322206716506
+174921,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.102478164389241
+175221,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10139904604898
+175522,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58040181988316
+175822,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03343485996201
+176123,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1076147676887478
+176423,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.103244338410807
+176724,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10237025255519
+177023,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+177324,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+177625,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58042572256544
+177925,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03345929798579
+178226,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1078857343039812
+178526,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.103943607095278
+178827,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10324433841078
+179127,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58044796116707
+179428,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0334820223934
+179729,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1081365969445358
+180029,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.104581689769859
+180330,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1040310156808
+180630,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+180931,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+181231,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+181532,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.580468640378
+181832,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03350314230964
+182133,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.108368754147781
+182433,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.105163830949682
+182734,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10473902522384
+183035,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+183336,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58048785950177
+183636,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03352276109307
+183937,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1085835170424996
+184237,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.105694838106952
+184537,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10537623381256
+184839,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+185139,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+185440,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+185740,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58050571259469
+186041,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03354097650565
+186341,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1087821137193192
+186642,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.106179116634383
+186943,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10594972154242
+187242,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+187543,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+187844,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58052228862014
+188144,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03355788089533
+188445,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.108965693513731
+188745,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.106620702186369
+189047,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10646586049928
+189348,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+189648,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+189949,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58053767161475
+190249,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03357356138841
+190550,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1091353311842216
+190850,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.107023290572725
+191151,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10693038556046
+191452,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58055194086346
+191752,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03358810008895
+192052,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1092920309715266
+192353,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.107390265371057
+192654,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10734845811552
+192955,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+193255,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58056517108095
+193556,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03360157428257
+193856,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1094367305280846
+194159,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.107724723415107
+194458,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10772472341509
+194758,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+195059,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+195360,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+195660,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58057743259714
+195961,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0336140566427
+196261,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1095703047094272
+196562,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.108029498307747
+196862,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1080633621847
+197163,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+197464,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+197764,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+198065,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+198365,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+198666,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+198967,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+199267,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58058879154486
+199567,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03362561543746
+199869,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.109693569221562
+200169,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.10830718209882
+200470,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10836813707733
+200771,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58059931004809
+201071,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03363631473549
+201372,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1098072841203939
+201672,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.10856014525971
+201972,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10864243448071
+202273,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+202574,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5806090464093
+202877,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03364621460958
+203176,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1099121571609516
+203477,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.108790555078548
+203777,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10888930214375
+204078,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5806180552947
+204379,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03365537133685
+204679,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.110008846995642
+204980,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.10900039259213
+205281,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1091114830405
+205581,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58062638791654
+205882,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03366383759484
+206183,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.110097966221999
+206484,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.10919146816332
+206785,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10931144584755
+207085,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+207386,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58063409221131
+207687,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0336716626524
+207988,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1101800842814322
+208288,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.109365435805465
+208589,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10949141237391
+208889,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+209189,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+209490,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+209791,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+210092,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+210392,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+210693,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+210994,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58064121301368
+211294,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03367889255513
+211595,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1102557302113436
+211896,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.109523806348658
+212196,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10965338224763
+212496,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58064779222516
+212797,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03368557030475
+213098,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1103253952536958
+213399,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.109667959536269
+213700,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10979915513397
+214000,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+214301,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58065386897732
+214601,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03369173603213
+214902,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.110389535323689
+215203,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.109799155133981
+215504,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.10993035073169
+215805,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+216105,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+216406,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+216707,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58065947978923
+217007,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03369742716355
+217308,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.11044857334266
+217609,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.1099185431279
+217910,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11004842676962
+218210,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58066465871883
+218511,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03370267858037
+218812,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.110502901439673
+219113,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110027173082807
+219413,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11015469520378
+219714,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+220015,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+220315,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+220616,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+220917,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+221218,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58066943750813
+221518,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03370752277172
+221820,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1105528830265339
+222119,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110126002726565
+222420,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11025033679451
+222721,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+223022,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58067384572226
+223322,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337119899803
+223623,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.110598854751146
+223925,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110215905821853
+224226,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11033641422617
+224525,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58067791088207
+224827,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03371610834138
+225127,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.11064112833425
+225428,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11029767938193
+225729,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11041388391466
+226030,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58068165859066
+226330,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03371990401494
+226631,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1106799922946444
+226931,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110372050282884
+227233,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1104836066343
+227533,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+227834,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+228135,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+228436,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5806851126536
+228736,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03372340131118
+229037,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1107157135680088
+229338,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110439681320939
+229638,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11054635708199
+229939,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58068829519317
+230239,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03372662280954
+230540,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1107485390244174
+230841,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110501176759666
+231142,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1106028324849
+231442,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+231743,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+232043,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+232344,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+232645,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+232946,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+233246,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58069122675668
+233546,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03372958947126
+233848,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1107786968895723
+234148,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110557087408548
+234449,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11065366034752
+234749,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58069392641885
+235050,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03373232074586
+235351,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1108063980747005
+235651,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110607915271169
+235952,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11069940542389
+236253,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58069641187873
+236553,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337348346716
+236854,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1108318374199422
+237155,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11065411779829
+237456,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11074057599261
+237757,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+238058,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+238359,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+238660,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58069869955116
+238959,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03373714797024
+239260,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1108551948559309
+239561,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110696111778388
+239862,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11077762950445
+240163,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+240464,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+240764,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+241065,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+241366,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+241668,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58070080465292
+241968,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03373927613619
+242269,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1108766364881217
+242570,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110734276895593
+242871,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11081097766512
+243171,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58070274128393
+243472,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03374123352042
+243773,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1108963156082654
+244074,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110768958982685
+244374,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11084099100972
+244675,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+244976,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+245277,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58070452250358
+245578,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03374303340931
+245879,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1109143736372658
+246180,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110800472994514
+246481,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11086800301986
+246781,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58070616040247
+247081,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337446880986
+247382,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1109309410034842
+247683,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110829105725262
+247984,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11089231382898
+248284,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58070766616972
+248585,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03374620896278
+248886,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1109461379603884
+249187,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110855118291026
+249487,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11091419355719
+249788,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58070905015613
+250089,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03374760652012
+250389,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.11096007534726
+250690,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110878748397495
+250991,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11093388531259
+251291,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071032193331
+251592,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03374889049346
+251892,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1109728552965088
+252192,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110900212410872
+252494,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11095160789245
+252795,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+253095,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+253396,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+253697,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+253998,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+254299,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+254600,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+254900,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+255201,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+255502,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+255803,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+256103,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071149034905
+256404,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375006986711
+256705,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1109845718909666
+257005,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110919707248708
+257306,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11096755821431
+257606,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+257907,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071256357907
+258208,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375115294007
+258509,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.110995311774357
+258810,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110937412105981
+259111,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11098191350399
+259410,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071354917547
+259711,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375214737567
+260012,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110051547179811
+260313,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110953490030424
+260614,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1109948332647
+260915,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+261214,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071445411186
+261515,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375306024785
+261816,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110141741464872
+262117,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110968089360028
+262418,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11100646104934
+262719,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+263020,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+263321,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+263621,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+263922,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071528482554
+264221,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375389808446
+264522,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110224376254387
+264823,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110981345034519
+265124,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11101692605551
+265425,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+265727,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+266026,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+266327,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+266628,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+266928,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071604725686
+267228,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375466690743
+267530,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.11103000731324
+267830,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.110993379791623
+268131,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11102634456107
+268432,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+268733,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+269034,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+269335,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+269635,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+269937,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+270236,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071674688576
+270537,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337553722703
+270838,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110369403798321
+271139,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11100430525807
+271440,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11103482121607
+271741,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+272041,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+272343,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+272643,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+272944,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071738876598
+273245,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375601929318
+273546,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110432893944298
+273847,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111014222944425
+274148,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11104245020557
+274447,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071797755679
+274748,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375661269506
+275049,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110491026844311
+275350,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111023225152039
+275651,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11104931629613
+275952,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+276253,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+276554,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807185175525
+276855,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337571568241
+277155,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110544246675085
+277456,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111031395799795
+277758,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11105549577763
+278058,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071901270992
+278359,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337576556856
+278659,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110592961587555
+278960,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111038811177592
+279261,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11106105731098
+279562,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+279863,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+280163,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+280463,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807194666739
+280764,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337581129681
+281064,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110637546546558
+281365,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111045540632942
+281666,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.111066062691
+281966,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+282266,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+282567,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+282868,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+283169,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+283469,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58071988280098
+283770,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375853206742
+284071,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110678345955196
+284372,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111051647196557
+284683,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.111070567533
+284975,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072026418135
+285276,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375891610918
+285576,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110715676079332
+285877,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111057188152232
+286177,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11107462189082
+286478,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+286778,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072061365935
+287078,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337592679695
+287378,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110749827286623
+287679,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111062215555917
+287980,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11107827081285
+288279,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+288581,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+288882,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+289182,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+289481,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+289782,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072093385225
+290082,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375959029431
+290383,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110781066113553
+290683,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111066776708453
+290983,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11108155484268
+291283,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+291583,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+291884,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+292184,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+292484,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+292785,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+293087,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+293386,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072122716783
+293686,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03375988551716
+293988,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110809637173042
+294288,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111070914586035
+294587,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11108451046952
+294888,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+295189,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+295489,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072149582061
+295789,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376015587573
+296089,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110835764914342
+296389,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111074668232128
+296689,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11108717053368
+296989,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+297290,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+297590,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072174184692
+297890,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376040342714
+298189,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110859655246121
+298490,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111078073114252
+298790,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11108956459142
+299090,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072196711869
+299390,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376063006206
+299690,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110881497032934
+299991,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111081161448741
+300291,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11109171924339
+300591,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+300891,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+301191,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+301491,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+301791,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072217335648
+302092,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376083751786
+302392,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110901463474514
+302692,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.1110839624963
+302993,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11109365843016
+303293,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+303593,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+303893,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072236214126
+304193,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376102739061
+304493,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110919713376692
+304793,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111086502830972
+305094,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11109540369826
+305394,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+305694,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+305994,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+306294,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072253492546
+306594,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376120114629
+306894,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111093639232212
+307195,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111088806584856
+307495,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11109697443955
+307796,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072269304313
+308096,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376136013114
+308396,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110951633748394
+308696,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111090895670767
+308996,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1110983881067
+309296,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+309596,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+309896,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072283771934
+310197,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376150558115
+310497,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111096555994063
+310797,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111092789984758
+311097,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11109966040713
+311398,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072297007885
+311698,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337616386309
+311998,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110978282945043
+312299,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111094507590353
+312599,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110080547753
+312899,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+313199,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+313500,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+313800,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072309115413
+314100,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376176032165
+314400,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1110989905409574
+314700,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111096064886093
+315001,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110183604089
+315301,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072320189271
+315601,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376187160885
+315901,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111000521357226
+316201,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111097476757893
+316502,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1111027635479
+316803,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+317102,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+317403,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+317703,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072330316405
+318003,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.033761973369
+318304,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111010216897292
+318604,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111098756717583
+318904,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110359830423
+319205,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+319505,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+319805,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+320106,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072339576579
+320406,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376206640611
+320706,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111019070879322
+321006,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111099917028866
+321307,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1111043495849
+321607,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+321907,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+322207,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+322507,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+322808,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072348042955
+323108,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376215145748
+323408,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111027155494277
+323708,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111100968821829
+324009,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110502573753
+324309,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+324609,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+324910,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+325210,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807235578263
+325510,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376222919917
+325810,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111034536827034
+326111,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11110192219702
+326411,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110563427489
+326711,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072362857125
+327011,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376230025096
+327312,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111041275364033
+327612,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111102786320068
+327912,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110618195852
+328212,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+328512,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+328814,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+329114,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+329414,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+329714,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+330015,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072369322836
+330315,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376236518089
+330615,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111047426459637
+330916,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111103569507646
+331216,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110667487378
+331516,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+331817,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072375231461
+332117,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337624245096
+332417,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111053040764438
+332717,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11110427930562
+333018,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110711849751
+333318,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+333618,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+333918,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072380630374
+334219,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376247871412
+334519,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111058164618557
+334819,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111104922560033
+335120,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110751775887
+335420,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072385562986
+335720,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376252823149
+336020,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111062840412704
+336321,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111105505481618
+336621,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110787709408
+336921,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072390069066
+337221,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.033762573462
+337523,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111067106919597
+337822,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111106033704397
+338123,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110820049579
+338423,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+338723,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+339024,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+339324,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072394185042
+339624,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337626147723
+339924,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111070999598076
+340224,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111106512338916
+340525,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110849155732
+340825,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+341125,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+341426,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+341726,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+342026,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+342327,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+342627,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807239794428
+342927,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376265249811
+343227,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111107455087216
+343527,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111106946020598
+343828,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1111087535127
+344128,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072401377328
+344428,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376268694683
+344729,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111077790387003
+345029,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111107338953666
+345330,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110898927254
+345630,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+345930,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072404512161
+346231,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376271839984
+346532,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111080745243669
+346834,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111107694951025
+347133,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1111092014564
+347433,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+347734,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+348034,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072407374385
+348334,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376274711471
+348635,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111083440214404
+348935,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111108017470487
+349235,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110939242187
+349535,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+349836,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072409987439
+350136,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376277332717
+350436,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111085897940012
+350737,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111108309647657
+351037,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110956429079
+351338,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+351638,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072412372772
+351938,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376279725289
+352238,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111088139110776
+352539,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.1111085743258
+352840,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110971897281
+353140,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072414550013
+353441,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376281908922
+353741,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111109018263228
+354042,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111108814082947
+354342,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110985818664
+354642,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+354943,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+355243,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807241653712
+355543,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337628390167
+355844,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111092045777347
+356144,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111109031256518
+356445,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11110998347908
+356745,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807241835052
+357045,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376285720046
+357346,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111093744325264
+357646,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111109227965658
+357946,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111009624229
+358247,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+358547,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+358847,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+359147,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+359448,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+359749,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+360049,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072420005242
+360349,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337628737915
+360650,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111095292689304
+360950,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111109406131515
+361250,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111019772916
+361551,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+361851,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+362151,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+362452,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072421515027
+362752,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376288892792
+363053,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111096704033525
+363353,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111109567495655
+363654,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111028906735
+363955,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+364255,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072422892441
+364555,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.033762902736
+364856,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111109799037974
+365156,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111109713636763
+365457,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111037127174
+365757,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+366058,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+366358,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+366676,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072424148976
+366959,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376291533117
+367260,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111099162705442
+367561,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111109845985805
+367861,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111044525568
+368162,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072425295136
+368462,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376292681892
+368762,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111110023103348
+369063,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11110996583978
+369363,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111051184122
+369664,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+369965,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+370265,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072426340522
+370566,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376293729573
+370866,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111101204514109
+371166,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110074374215
+371467,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111057176821
+371767,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072427293912
+372067,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376294684972
+372368,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111110209150012
+372668,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110172654476
+372969,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.1111106257025
+373269,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+373570,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072428163325
+373870,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376295556143
+374171,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111102899615557
+374471,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110261646052
+374771,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111067424335
+375072,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+375372,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+375673,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+375973,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+376274,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+376574,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+376874,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+377174,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+377475,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807242895609
+377775,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376296350443
+378076,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111103635818607
+378376,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110342223881
+378677,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111071793013
+378977,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072429678903
+379278,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376297074594
+379578,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111104306459134
+379879,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110415180795
+380179,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111075724823
+380480,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+380780,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807243033788
+381080,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376297734738
+381382,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.11111049173313
+381682,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110481235198
+381983,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111079263452
+382283,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+382584,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072430938611
+382884,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376298336484
+383185,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111110547372169
+383484,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110541038023
+383785,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111082448218
+384086,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+384386,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072431486201
+384686,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376298884953
+384987,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111105980453324
+385287,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110595179042
+385588,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111085314508
+385888,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+386189,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072431985308
+386489,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376299384823
+386789,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111106441925895
+387090,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110644192589
+387390,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111087894167
+387690,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+387991,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072432440188
+388291,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376299840362
+388592,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111106862152564
+388892,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110688562746
+389193,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111090215861
+389493,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+389793,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072432854729
+390094,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337630025547
+390395,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111107244793583
+390695,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110728728057
+390995,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111092305386
+391296,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+391597,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+391897,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072433232478
+392197,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.0337630063371
+392497,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.111110759318703
+392798,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11111076508579
+393099,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111094185958
+393399,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+393700,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072433576676
+394000,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376300978327
+394300,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111107910376907
+394601,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110797995806
+394902,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111095878474
+395202,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+395503,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+395803,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+396104,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+396404,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072433890278
+396705,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376301292288
+397005,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111108199138797
+397306,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110827784072
+397606,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111097401738
+397907,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+398208,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072434175982
+398508,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376301578298
+398809,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111108462003325
+399110,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110854745839
+399410,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111098772675
+399711,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+400011,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072434436251
+400312,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376301838826
+400613,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111108701277577
+400913,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110879148523
+401214,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111100006518
+401514,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+401815,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+402115,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072434673332
+402416,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376302076127
+402717,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111108919064672
+403017,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110901234323
+403318,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111101116977
+403618,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+403919,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+404219,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072434889276
+404519,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376302292254
+404820,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111109117281637
+405121,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110921222588
+405422,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111102116391
+405722,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072435085951
+406023,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376302489085
+406323,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111109297675732
+406624,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110939311969
+406925,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111103015863
+407225,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+407526,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+407826,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072435265066
+408127,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376302668327
+408428,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111109461839357
+408728,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111110955682358
+409029,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111103825387
+409330,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072435428178
+409630,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376302831545
+409931,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111109611223657
+410231,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11111097049666
+410532,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111104553959
+410833,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+411133,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072435576706
+411434,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376302980158
+411735,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111109747150958
+412035,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11111098390239
+412335,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111105209673
+412636,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+412937,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+413237,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+413538,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+413838,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072435711944
+414139,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376303115465
+414439,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111109870826101
+414740,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11111099603312
+415041,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111105799817
+415341,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+415642,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+415943,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072435835074
+416244,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376303238649
+416544,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111109983346803
+416845,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.11111100700979
+417146,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111106330947
+417446,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+417746,speed=60TimeToCollision=0,speed=60TimeToCollision=0,right,60,0,overtake,100,111.11111111111103
+418047,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.5807243594717
+418348,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376303350788
+418648,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.11111100857131
+418949,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111111016941905
+419249,speed=40-60TimeToCollision=0,speed=60TimeToCollision=0,left,55,0,speed up,100,111.11111106808963
+419550,speed=60TimeToCollision=2,speed=60TimeToCollision=2,left,60,2,straight,100,105.58072436049217
+419851,speed=60TimeToCollision=2,speed=60TimeToCollision=1,left,60,1,straight,100,105.03376303452866
+420152,speed=60TimeToCollision=1,speed=40-60TimeToCollision=1,left,60,1,slow down,0,1.1111110178835981
+420452,speed=40-60TimeToCollision=1,speed=40-60TimeToCollision=0,right,55,0,overtake,0,11.111111025928611

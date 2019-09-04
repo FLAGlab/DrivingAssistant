@@ -1,0 +1,31 @@
+state 0:  ["left","0"]
+ 	priority:197 -> actions: ["speed up"]
+ 	priority:2 -> actions: ["slow down"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","speed up"]
+ 	priority:1 -> actions: ["speed up","speed up"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","speed up","speed up","speed up"]
+ 	
+state 1:  ["left","2"]
+ 	priority:198 -> actions: ["straight"]
+ 	priority:1 -> actions: ["speed up","slow down","slow down","slow down","slow down"]
+ 	priority:1 -> actions: ["speed up","slow down","slow down"]
+ 	
+state 2:  ["left","1"]
+ 	priority:198 -> actions: ["straight","slow down"]
+ 	priority:2 -> actions: ["speed up"]
+ 	
+state 3:  ["right","1"]
+ 	priority:2 -> actions: ["overtake"]
+ 	
+state 4:  ["right","0"]
+ 	priority:238 -> actions: ["overtake"]
+ 	priority:26 -> actions: ["overtake","overtake","overtake"]
+ 	priority:26 -> actions: ["overtake","overtake"]
+ 	priority:11 -> actions: ["overtake","overtake","overtake","overtake"]
+ 	priority:10 -> actions: ["overtake","overtake","overtake","overtake","overtake"]
+ 	priority:10 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:3 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:2 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	

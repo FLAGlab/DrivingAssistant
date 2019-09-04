@@ -1,0 +1,39 @@
+state 0:  ["left","20","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 1:  ["left","25","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 2:  ["left","30","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 3:  ["left","35","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 4:  ["left","40","2"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 5:  ["left","45","1"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 6:  ["left","50","1"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 7:  ["left","55","0"]
+ 	priority:259 -> actions: ["speed up"]
+ 	
+state 8:  ["left","60","0"]
+ 	priority:373 -> actions: ["slow down"]
+ 	
+state 9:  ["right","60","2"]
+ 	priority:92 -> actions: ["overtake"]
+ 	
+state 10:  ["right","60","1"]
+ 	priority:207 -> actions: ["overtake","overtake"]
+ 	
+state 11:  ["right","60","0"]
+ 	priority:207 -> actions: ["overtake"]
+ 	
+state 12:  ["left","55","2"]
+ 	priority:115 -> actions: ["speed up"]
+ 	

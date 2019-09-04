@@ -1,0 +1,29 @@
+state 0:  ["left","0"]
+ 	priority:49 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:30 -> actions: ["speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:25 -> actions: ["speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:20 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:12 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:11 -> actions: ["speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:3 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:3 -> actions: ["speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:1 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:1 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:1 -> actions: ["speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:1 -> actions: ["speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	
+state 1:  ["left","2"]
+ 	priority:86 -> actions: ["speed up"]
+ 	
+state 2:  ["left","1"]
+ 	priority:157 -> actions: ["speed up"]
+ 	
+state 3:  ["right","1"]
+ 	priority:85 -> actions: ["overtake"]
+ 	priority:71 -> actions: ["overtake","overtake"]
+ 	
+state 4:  ["right","0"]
+ 	priority:86 -> actions: ["overtake","slow down","slow down","speed up"]
+ 	priority:71 -> actions: ["overtake","slow down","speed up","slow down"]
+ 	

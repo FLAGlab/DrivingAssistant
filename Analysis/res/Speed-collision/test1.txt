@@ -1,0 +1,19 @@
+state 0:  ["20","0"]
+ 	priority:3 -> actions: ["Speed up","slow down","slow down","slow down","overtake"]
+ 	priority:2 -> actions: ["slow down","overtake","Speed up"]
+ 	priority:1 -> actions: ["slow down","slow down","slow down","overtake"]
+ 	priority:1 -> actions: ["Speed up","slow down","slow down"]
+ 	priority:1 -> actions: ["slow down","overtake","Speed up","slow down"]
+ 	priority:1 -> actions: ["overtake","Speed up","slow down","slow down"]
+ 	priority:1 -> actions: ["overtake","Speed up","slow down"]
+ 	priority:1 -> actions: ["slow down","slow down","slow down","slow down","overtake"]
+ 	priority:1 -> actions: ["slow down","slow down","slow down","slow down"]
+ 	priority:1 -> actions: ["slow down","slow down","slow down"]
+ 	
+state 1:  ["30","0"]
+ 	priority:1 -> actions: ["slow down","slow down","slow down"]
+ 	
+state 2:  ["15","0"]
+ 	priority:1 -> actions: ["slow down","slow down","overtake","Speed up"]
+ 	priority:1 -> actions: ["slow down","slow down","overtake"]
+ 	

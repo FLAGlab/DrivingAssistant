@@ -1,0 +1,142 @@
+state 1:  "[speed=20-40TimeToCollision=0]"
+ 	priority:1 -> actions: ["speed up","speed up","straight"]
+ 	
+state 2:  "[speed=40-60TimeToCollision=0]"
+ 	priority:1 -> actions: ["speed up","speed up","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up"]
+ 	priority:1 -> actions: ["speed up","straight","overtake","overtake"]
+ 	
+state 3:  "[speed=40-60TimeToCollision=1]"
+ 	priority:1 -> actions: ["overtake","speed up","speed up","speed up"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake"]
+ 	
+state 4:  "[speed=40-60TimeToCollision=2]"
+ 	priority:1 -> actions: ["straight","overtake","overtake","overtake","speed up"]
+ 	
+state 5:  "[speed=60-80TimeToCollision=2]"
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake"]
+ 	priority:2 -> actions: ["overtake","overtake","overtake"]
+ 	
+state 6:  "[speed=60-80TimeToCollision=1]"
+ 	priority:1 -> actions: ["overtake","speed up","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","speed up"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake","speed up"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","speed up","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","speed up","overtake"]
+ 	
+state 7:  "[speed=60-80TimeToCollision=0]"
+ 	priority:1 -> actions: ["speed up","overtake","overtake","overtake","speed up"]
+ 	priority:1 -> actions: ["speed up","speed up","overtake"]
+ 	priority:1 -> actions: ["speed up","speed up","overtake","overtake"]
+ 	priority:1 -> actions: ["speed up","overtake","overtake","overtake"]
+ 	
+state 8:  "[speed=80TimeToCollision=1]"
+ 	priority:29 -> actions: ["overtake","overtake","overtake","speed up"]
+ 	priority:56 -> actions: ["overtake","overtake","speed up"]
+ 	priority:34 -> actions: ["overtake","speed up","slow down"]
+ 	priority:83 -> actions: ["overtake","overtake","overtake"]
+ 	priority:29 -> actions: ["overtake","overtake","overtake","overtake"]
+ 	priority:22 -> actions: ["overtake","speed up","slow down","speed up"]
+ 	priority:21 -> actions: ["overtake","overtake","speed up","slow down"]
+ 	priority:18 -> actions: ["overtake","overtake","speed up","slow down","speed up"]
+ 	priority:18 -> actions: ["overtake","speed up","overtake"]
+ 	priority:17 -> actions: ["overtake","overtake","overtake","overtake","overtake"]
+ 	priority:15 -> actions: ["overtake","overtake","speed up","overtake"]
+ 	priority:14 -> actions: ["overtake","overtake","speed up","overtake","overtake"]
+ 	priority:14 -> actions: ["overtake","overtake","overtake","speed up","slow down"]
+ 	priority:14 -> actions: ["overtake","speed up","overtake","overtake"]
+ 	priority:9 -> actions: ["overtake","overtake","overtake","speed up","overtake"]
+ 	priority:8 -> actions: ["overtake","speed up","slow down","speed up","slow down"]
+ 	priority:8 -> actions: ["overtake","speed up","slow down","overtake","overtake"]
+ 	priority:8 -> actions: ["overtake","overtake","overtake","overtake","speed up"]
+ 	priority:7 -> actions: ["overtake","overtake","speed up","slow down","overtake"]
+ 	priority:6 -> actions: ["overtake","speed up","overtake","overtake","slow down"]
+ 	priority:6 -> actions: ["overtake","speed up","slow down","overtake"]
+ 	priority:6 -> actions: ["overtake","speed up","overtake","overtake","overtake"]
+ 	priority:3 -> actions: ["overtake","speed up","slow down","speed up","overtake"]
+ 	
+state 9:  "[speed=80TimeToCollision=0]"
+ 	priority:25 -> actions: ["speed up","slow down","speed up","slow down"]
+ 	priority:50 -> actions: ["speed up","overtake","overtake"]
+ 	priority:38 -> actions: ["speed up","slow down","overtake"]
+ 	priority:32 -> actions: ["speed up","slow down","overtake","overtake"]
+ 	priority:69 -> actions: ["speed up","slow down","speed up"]
+ 	priority:22 -> actions: ["speed up","slow down","speed up","overtake"]
+ 	priority:20 -> actions: ["speed up","overtake","overtake","slow down"]
+ 	priority:18 -> actions: ["speed up","slow down","speed up","slow down","speed up"]
+ 	priority:16 -> actions: ["speed up","overtake","overtake","overtake"]
+ 	priority:11 -> actions: ["speed up","slow down","speed up","overtake","overtake"]
+ 	priority:10 -> actions: ["speed up","slow down","overtake","overtake","overtake"]
+ 	priority:8 -> actions: ["speed up","slow down","overtake","overtake","speed up"]
+ 	priority:8 -> actions: ["speed up","slow down","speed up","slow down","overtake"]
+ 	priority:7 -> actions: ["speed up","overtake","overtake","slow down","overtake"]
+ 	priority:7 -> actions: ["speed up","overtake","overtake","overtake","slow down"]
+ 	priority:6 -> actions: ["speed up","overtake","overtake","slow down","speed up"]
+ 	priority:5 -> actions: ["speed up","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["speed up","overtake","slow down","speed up"]
+ 	priority:1 -> actions: ["speed up","slow down","overtake","speed up","slow down"]
+ 	
+state 10:  "[speed=80+TimeToCollision=1]"
+ 	priority:33 -> actions: ["overtake","overtake","overtake","overtake"]
+ 	priority:48 -> actions: ["overtake","overtake","slow down"]
+ 	priority:69 -> actions: ["overtake","overtake","overtake"]
+ 	priority:21 -> actions: ["overtake","slow down","speed up"]
+ 	priority:18 -> actions: ["overtake","slow down","overtake"]
+ 	priority:18 -> actions: ["overtake","slow down","overtake","overtake"]
+ 	priority:18 -> actions: ["overtake","overtake","overtake","overtake","overtake"]
+ 	priority:17 -> actions: ["overtake","slow down","speed up","slow down"]
+ 	priority:17 -> actions: ["overtake","overtake","slow down","speed up"]
+ 	priority:15 -> actions: ["overtake","overtake","overtake","slow down"]
+ 	priority:11 -> actions: ["overtake","overtake","slow down","overtake"]
+ 	priority:11 -> actions: ["overtake","overtake","slow down","speed up","slow down"]
+ 	priority:9 -> actions: ["overtake","slow down","speed up","slow down","speed up"]
+ 	priority:9 -> actions: ["overtake","overtake","slow down","overtake","overtake"]
+ 	priority:9 -> actions: ["overtake","overtake","slow down","speed up","overtake"]
+ 	priority:8 -> actions: ["overtake","slow down","speed up","overtake","overtake"]
+ 	priority:7 -> actions: ["overtake","slow down","overtake","overtake","overtake"]
+ 	priority:7 -> actions: ["overtake","slow down","speed up","overtake"]
+ 	priority:6 -> actions: ["overtake","overtake","overtake","overtake","slow down"]
+ 	priority:6 -> actions: ["overtake","slow down","speed up","slow down","overtake"]
+ 	priority:5 -> actions: ["overtake","overtake","overtake","slow down","overtake"]
+ 	priority:5 -> actions: ["overtake","overtake","overtake","slow down","speed up"]
+ 	priority:2 -> actions: ["overtake","slow down","overtake","overtake","speed up"]
+ 	
+state 11:  "[speed=80+TimeToCollision=0]"
+ 	priority:32 -> actions: ["slow down","speed up","slow down","speed up"]
+ 	priority:54 -> actions: ["slow down","overtake","overtake"]
+ 	priority:34 -> actions: ["slow down","overtake","overtake","overtake"]
+ 	priority:72 -> actions: ["slow down","speed up","slow down"]
+ 	priority:27 -> actions: ["slow down","speed up","overtake"]
+ 	priority:25 -> actions: ["slow down","speed up","overtake","overtake"]
+ 	priority:22 -> actions: ["slow down","speed up","slow down","overtake"]
+ 	priority:21 -> actions: ["slow down","speed up","slow down","speed up","slow down"]
+ 	priority:16 -> actions: ["slow down","speed up","overtake","overtake","overtake"]
+ 	priority:13 -> actions: ["slow down","overtake","overtake","overtake","overtake"]
+ 	priority:13 -> actions: ["slow down","overtake","overtake","overtake","speed up"]
+ 	priority:11 -> actions: ["slow down","overtake","overtake","speed up","slow down"]
+ 	priority:11 -> actions: ["slow down","speed up","slow down","overtake","overtake"]
+ 	priority:8 -> actions: ["slow down","overtake","overtake","speed up"]
+ 	priority:6 -> actions: ["slow down","speed up","slow down","speed up","overtake"]
+ 	priority:5 -> actions: ["slow down","speed up","overtake","overtake","slow down"]
+ 	priority:4 -> actions: ["slow down","overtake","overtake","speed up","overtake"]
+ 	priority:1 -> actions: ["slow down","overtake","speed up","slow down"]
+ 	
+state 12:  "[speed=0TimeToCollision=0]"
+	priority:10 -> actions: ["speed up","speed up","straight"]
+
+state 13:  "[speed=0-20TimeToCollision=0]"
+	priority:1 -> actions: ["speed up","speed up","straight"]
+
+state 14:  "[speed=20-40TimeToCollision=1]"
+	priority:1 -> actions: ["overtake","speed up","speed up","speed up"]
+
+state 15:  "[speed=20-40TimeToCollision=2]"
+	priority:1 -> actions: ["straight","overtake","overtake","overtake","speed up"]
+
+state 16:  "[speed=0-20TimeToCollision=1]"
+	priority:1 -> actions: ["overtake","speed up","speed up","speed up"]
+
+state 17:  "[speed=0-20TimeToCollision=2]"
+	priority:1 -> actions: ["straight","overtake","overtake","overtake","speed up"]

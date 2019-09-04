@@ -1,0 +1,49 @@
+state 0:  ["20","0"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","speed up","speed up"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","speed up"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up"]
+ 	
+state 1:  ["35","0"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up"]
+ 	
+state 2:  ["40","0"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","overtake"]
+ 	
+state 3:  ["50","1"]
+ 	priority:1 -> actions: ["speed up","overtake","overtake"]
+ 	
+state 4:  ["45","2"]
+ 	priority:1 -> actions: ["speed up","speed up","overtake","overtake","speed up"]
+ 	
+state 5:  ["55","0"]
+ 	priority:1 -> actions: ["overtake","speed up","straight","straight"]
+ 	priority:1 -> actions: ["speed up","straight","straight"]
+ 	
+state 6:  ["60","1"]
+ 	priority:76 -> actions: ["overtake","overtake","straight"]
+ 	priority:69 -> actions: ["straight","overtake","overtake"]
+ 	priority:58 -> actions: ["overtake","overtake","straight","straight"]
+ 	priority:57 -> actions: ["straight","overtake","overtake","straight"]
+ 	priority:33 -> actions: ["overtake","overtake","straight","straight","straight"]
+ 	priority:29 -> actions: ["straight","overtake","overtake","straight","straight"]
+ 	priority:1 -> actions: ["overtake","overtake","straight","straight",null]
+ 	
+state 7:  ["60","2"]
+ 	priority:52 -> actions: ["straight","straight","overtake","overtake","straight"]
+ 	priority:50 -> actions: ["straight","straight","overtake","overtake"]
+ 	priority:66 -> actions: ["straight","straight","overtake"]
+ 	
+state 8:  ["60","0"]
+ 	priority:115 -> actions: ["straight","straight","straight","straight"]
+ 	priority:218 -> actions: ["straight","straight","straight"]
+ 	priority:66 -> actions: ["overtake","straight","straight"]
+ 	priority:58 -> actions: ["straight","straight","straight","straight","straight"]
+ 	priority:46 -> actions: ["straight","straight","straight","overtake","overtake"]
+ 	priority:46 -> actions: ["straight","straight","straight","overtake"]
+ 	priority:29 -> actions: ["overtake","straight","straight","straight","straight"]
+ 	priority:45 -> actions: ["overtake","straight","straight","straight"]
+ 	priority:29 -> actions: ["straight","straight","straight","straight","overtake"]
+ 	priority:21 -> actions: ["overtake","straight","straight","straight","overtake"]
+ 	priority:1 -> actions: ["overtake","straight","straight",null]
+ 	priority:1 -> actions: ["straight","straight",null]
+ 	

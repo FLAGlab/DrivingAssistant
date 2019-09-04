@@ -1,0 +1,12 @@
+state 0:  ["left","20"]
+ 	priority:2 -> actions: ["slow down","overtake","Speed up","slow down"]
+ 	priority:1 -> actions: ["slow down","slow down","overtake","Speed up","slow down"]
+ 	priority:1 -> actions: ["slow down","overtake","Speed up"]
+ 	priority:1 -> actions: ["slow down","slow down"]
+ 	
+state 1:  ["left","15"]
+ 	priority:3 -> actions: ["slow down"]
+ 	
+state 2:  ["left","30"]
+ 	priority:1 -> actions: ["slow down"]
+ 	

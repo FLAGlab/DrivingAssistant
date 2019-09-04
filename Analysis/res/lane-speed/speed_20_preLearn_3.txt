@@ -1,0 +1,49 @@
+state 0:  ["left","20"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 1:  ["left","25"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 2:  ["left","30"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 3:  ["left","35"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 4:  ["left","40"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 5:  ["left","45"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 6:  ["left","50"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 7:  ["right","55"]
+ 	priority:1 -> actions: ["overtake","overtake"]
+ 	
+state 8:  ["left","55"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 9:  ["left","60"]
+ 	priority:70 -> actions: ["straight","straight","straight"]
+ 	priority:54 -> actions: ["straight","straight","straight","straight"]
+ 	priority:25 -> actions: ["straight","straight","straight","straight","straight"]
+ 	priority:22 -> actions: ["straight","straight","straight","straight","straight","straight"]
+ 	priority:11 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:7 -> actions: ["straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:5 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:5 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:4 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:2 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:2 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:2 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:2 -> actions: ["straight","straight"]
+ 	priority:1 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	
+state 10:  ["right","60"]
+ 	priority:211 -> actions: ["overtake","overtake"]
+ 	
+state 11:  []
+ 	priority:1 -> actions: [null]
+ 	

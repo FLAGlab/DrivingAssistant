@@ -1,0 +1,127 @@
+state 0:  ["left","20"]
+ 	priority:15 -> actions: ["speed up"]
+ 		priority:1 -> actions: ["stop"]
+ 		
+state 1:  ["left","0"]
+ 	priority:16 -> actions: ["speed up"]
+ 	priority:1 -> actions: ["slow down","speed up"]
+ 	
+state 2:  ["left","5"]
+ 	priority:15 -> actions: ["speed up"]
+ 	priority:1 -> actions: ["straight"]
+ 	priority:1 -> actions: ["slow down"]
+ 	priority:1 -> actions: ["stop"]
+ 	
+state 3:  ["right","5"]
+ 	priority:1 -> actions: ["overtake"]
+ 	priority:1 -> actions: ["overtake","overtake"]
+ 	
+state 4:  ["left","10"]
+ 	priority:14 -> actions: ["speed up"]
+ 	priority:1 -> actions: ["straight","speed up"]
+ 	
+state 5:  ["left","15"]
+ 	priority:15 -> actions: ["speed up"]
+ 	
+state 6:  ["left","25"]
+ 	priority:28 -> actions: ["speed up"]
+ 	
+state 7:  ["left","30"]
+ 	priority:321 -> actions: ["speed up"]
+ 	priority:13 -> actions: ["slow down"]
+ 	
+state 8:  ["left","35"]
+ 	priority:306 -> actions: ["slow down"]
+ 	priority:62 -> actions: ["speed up"]
+ 	
+state 9:  ["left","40"]
+ 	priority:313 -> actions: ["speed up"]
+ 	priority:51 -> actions: ["slow down"]
+ 	priority:1 -> actions: ["straight"]
+ 	priority:1 -> actions: ["straight","speed up"]
+ 	
+state 10:  ["left","45"]
+ 	priority:305 -> actions: ["slow down"]
+ 	priority:69 -> actions: ["speed up"]
+ 	
+state 11:  ["left","50"]
+ 	priority:217 -> actions: ["speed up"]
+ 	priority:60 -> actions: ["slow down"]
+ 	priority:1 -> actions: ["stop"]
+ 	priority:1 -> actions: ["straight","stop"]
+ 	
+state 12:  ["left","55"]
+ 	priority:212 -> actions: ["slow down"]
+ 	priority:93 -> actions: ["speed up"]
+ 	
+state 13:  ["left","60"]
+ 	priority:207 -> actions: ["speed up"]
+ 	priority:88 -> actions: ["slow down"]
+ 	priority:1 -> actions: ["straight"]
+ 	priority:1 -> actions: ["stop"]
+ 	
+state 14:  ["right","10"]
+ 	priority:1 -> actions: ["overtake"]
+ 	
+state 15:  ["right","60"]
+ 	priority:32 -> actions: ["overtake","overtake","overtake"]
+ 	priority:5 -> actions: ["overtake","overtake"]
+ 	priority:2 -> actions: ["overtake"]
+ 	
+state 16:  ["right","55"]
+ 	priority:23 -> actions: ["overtake","overtake","overtake"]
+ 	priority:4 -> actions: ["overtake"]
+ 	priority:3 -> actions: ["overtake","overtake"]
+ 	
+state 17:  ["right","45"]
+ 	priority:5 -> actions: ["overtake","overtake","overtake"]
+ 	priority:4 -> actions: ["overtake","overtake"]
+ 	
+state 18:  ["left","65"]
+ 	priority:206 -> actions: ["slow down"]
+ 	priority:72 -> actions: ["speed up"]
+ 	
+state 19:  ["right","50"]
+ 	priority:27 -> actions: ["overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake"]
+ 	priority:1 -> actions: ["overtake"]
+ 	
+state 20:  ["left","70"]
+ 	priority:73 -> actions: ["speed up"]
+ 	priority:71 -> actions: ["slow down"]
+ 	
+state 21:  ["left","75"]
+ 	priority:72 -> actions: ["slow down"]
+ 	priority:30 -> actions: ["speed up"]
+ 	
+state 22:  ["left","80"]
+ 	priority:30 -> actions: ["slow down"]
+ 	priority:25 -> actions: ["speed up"]
+ 	
+state 23:  ["right","65"]
+ 	priority:24 -> actions: ["overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake"]
+ 	
+state 24:  ["left","85"]
+ 	priority:25 -> actions: ["slow down"]
+ 	
+state 25:  ["right","75"]
+ 	priority:13 -> actions: ["overtake","overtake","overtake"]
+ 	
+state 26:  ["right","40"]
+ 	priority:35 -> actions: ["overtake","overtake","overtake"]
+ 	priority:19 -> actions: ["overtake","overtake"]
+ 	priority:4 -> actions: ["overtake"]
+ 	
+state 27:  ["right","30"]
+ 	priority:14 -> actions: ["overtake","overtake"]
+ 	priority:7 -> actions: ["overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake"]
+ 	
+state 28:  ["right","35"]
+ 	priority:15 -> actions: ["overtake","overtake","overtake"]
+ 	priority:2 -> actions: ["overtake","overtake"]
+ 	
+state 29:  ["right","70"]
+ 	priority:2 -> actions: ["overtake","overtake","overtake"]
+ 	

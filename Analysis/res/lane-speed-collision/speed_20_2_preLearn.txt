@@ -1,0 +1,52 @@
+state 0:  ["left","20","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 1:  ["left","25","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 2:  ["left","30","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 3:  ["left","35","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 4:  ["left","40","2"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 5:  ["left","45","1"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 6:  ["right","50","1"]
+ 	priority:1 -> actions: ["overtake"]
+ 	
+state 7:  ["right","50","0"]
+ 	priority:1 -> actions: ["overtake"]
+ 	
+state 8:  ["left","50","0"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 9:  ["left","55","2"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 10:  ["left","60","1"]
+ 	priority:199 -> actions: ["straight"]
+ 	
+state 11:  ["right","60","1"]
+ 	priority:199 -> actions: ["overtake"]
+ 	
+state 12:  ["right","60","0"]
+ 	priority:84 -> actions: ["overtake","overtake"]
+ 	priority:35 -> actions: ["overtake","overtake","overtake"]
+ 	priority:29 -> actions: ["overtake","overtake","overtake","overtake"]
+ 	priority:22 -> actions: ["overtake","overtake","overtake","overtake","overtake"]
+ 	priority:11 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:9 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:4 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:2 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	priority:1 -> actions: ["overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake","overtake"]
+ 	
+state 13:  ["left","60","2"]
+ 	priority:198 -> actions: ["straight"]
+ 	

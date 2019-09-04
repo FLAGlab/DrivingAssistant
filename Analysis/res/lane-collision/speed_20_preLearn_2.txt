@@ -1,0 +1,32 @@
+state 0:  ["left","0"]
+ 	priority:72 -> actions: ["slow down"]
+ 	priority:50 -> actions: ["slow down","speed up"]
+ 	priority:27 -> actions: ["slow down","speed up","slow down"]
+ 	priority:16 -> actions: ["slow down","speed up","slow down","speed up"]
+ 	priority:11 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up"]
+ 	priority:10 -> actions: ["slow down","speed up","slow down","speed up","slow down"]
+ 	priority:9 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up"]
+ 	priority:3 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up"]
+ 	priority:3 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:2 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","speed up"]
+ 	priority:1 -> actions: ["speed up","slow down","speed up"]
+ 	priority:1 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up"]
+ 	priority:1 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down"]
+ 	priority:1 -> actions: ["slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up","slow down","speed up"]
+ 	
+state 1:  ["left","2"]
+ 	priority:116 -> actions: ["speed up"]
+ 	
+state 2:  ["left","1"]
+ 	priority:1 -> actions: ["speed up","speed up"]
+ 	
+state 3:  ["right","2"]
+ 	priority:92 -> actions: ["overtake"]
+ 	
+state 4:  ["right","1"]
+ 	priority:207 -> actions: ["overtake","overtake"]
+ 	
+state 5:  ["right","0"]
+ 	priority:207 -> actions: ["overtake"]
+ 	

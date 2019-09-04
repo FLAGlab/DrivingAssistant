@@ -1,0 +1,31 @@
+state 0:  ["left","0"]
+ 	priority:71 -> actions: ["straight"]
+ 	priority:54 -> actions: ["straight","straight"]
+ 	priority:25 -> actions: ["straight","straight","straight"]
+ 	priority:22 -> actions: ["straight","straight","straight","straight"]
+ 	priority:11 -> actions: ["straight","straight","straight","straight","straight","straight"]
+ 	priority:7 -> actions: ["straight","straight","straight","straight","straight"]
+ 	priority:5 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:5 -> actions: ["straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:4 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:2 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:2 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:2 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:1 -> actions: ["straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight","straight"]
+ 	priority:1 -> actions: ["speed up"]
+ 	priority:1 -> actions: ["speed up","speed up","speed up","speed up","speed up"]
+ 	
+state 1:  ["left","2"]
+ 	priority:212 -> actions: ["straight"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 2:  ["left","1"]
+ 	priority:211 -> actions: ["straight"]
+ 	priority:1 -> actions: ["speed up"]
+ 	
+state 3:  ["right","1"]
+ 	priority:212 -> actions: ["overtake"]
+ 	
+state 4:  ["right","0"]
+ 	priority:212 -> actions: ["overtake"]
+ 	
