@@ -1,6 +1,6 @@
 # Car Overtaking 
 
-Teaching a car to drive from previous manual drives.
+This repository is **work in progress**, its purpose it to try out techniques to teaching a car to drive from previous manual drives.
 
 ### What is this repository for? ###
 
