@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "context-traits": "0.0.2",
+        "traits.js": "^1.1.5"
+    }
+}

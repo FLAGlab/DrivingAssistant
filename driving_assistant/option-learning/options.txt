@@ -1,0 +1,287 @@
+{"50,0,4":2,"60,0,1":4,"60,1,4":4,"50,0,1":2,"50,1,4":2,"0,0,4":2,"10,0,4":2,"20,0,4":2,"30,0,4":2,"40,0,3":1,"40,0,2":1,"40,0,4":1,"70,0,4":1}
+{"50,0,4,0":286,"50,0,4,1":34,"60,0,1,0":656,"60,0,1,1":1,"60,0,1,2":1,"60,0,1,3":1,"60,1,4,0":686,"60,1,4,1":4,"60,1,4,2":1,"60,1,4,3":1,"50,0,1,0":29,"50,0,1,1":3,"50,1,4,0":29,"50,1,4,1":3,"0,0,4,0":1,"0,0,4,1":1,"10,0,4,0":1,"10,0,4,1":1,"20,0,4,0":1,"20,0,4,1":1,"30,0,4,0":1,"30,0,4,1":1,"40,0,3,0":1,"40,0,2,0":1,"40,0,4,0":1,"70,0,4,0":1}
+Context50040 = new cop.Context({ 'name': "Context50040"})
+BAContext50040 = Trait({
+    'option': function() {
+ 		this.speedUp();
+ 	}
+})
+Context50040.adapt(agent, BAContext50040)
+Context50041 = new cop.Context({ 'name': "Context50041"})
+BAContext50041 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context50041.adapt(agent, BAContext50041)
+Context60010 = new cop.Context({ 'name': "Context60010"})
+BAContext60010 = Trait({
+    'option': function() {
+ 		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context60010.adapt(agent, BAContext60010)
+Context60011 = new cop.Context({ 'name': "Context60011"})
+BAContext60011 = Trait({
+    'option': function() {
+ 		this.steerLeft();
+		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context60011.adapt(agent, BAContext60011)
+Context60012 = new cop.Context({ 'name': "Context60012"})
+BAContext60012 = Trait({
+    'option': function() {
+ 		this.slowDown();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.straight();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context60012.adapt(agent, BAContext60012)
+Context60013 = new cop.Context({ 'name': "Context60013"})
+BAContext60013 = Trait({
+    'option': function() {
+ 		this.steerLeft();
+		this.straight();
+		this.steerRight();
+		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context60013.adapt(agent, BAContext60013)
+Context60140 = new cop.Context({ 'name': "Context60140"})
+BAContext60140 = Trait({
+    'option': function() {
+ 		this.steerRight();
+ 	}
+})
+Context60140.adapt(agent, BAContext60140)
+Context60141 = new cop.Context({ 'name': "Context60141"})
+BAContext60141 = Trait({
+    'option': function() {
+ 		this.steerRight();
+		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context60141.adapt(agent, BAContext60141)
+Context60142 = new cop.Context({ 'name': "Context60142"})
+BAContext60142 = Trait({
+    'option': function() {
+ 		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context60142.adapt(agent, BAContext60142)
+Context60143 = new cop.Context({ 'name': "Context60143"})
+BAContext60143 = Trait({
+    'option': function() {
+ 		this.straight();
+		this.steerRight();
+		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context60143.adapt(agent, BAContext60143)
+Context50010 = new cop.Context({ 'name': "Context50010"})
+BAContext50010 = Trait({
+    'option': function() {
+ 		this.steerLeft();
+		this.speedUp();
+		this.steerRight();
+ 	}
+})
+Context50010.adapt(agent, BAContext50010)
+Context50011 = new cop.Context({ 'name': "Context50011"})
+BAContext50011 = Trait({
+    'option': function() {
+ 		this.steerLeft();
+		this.speedUp();
+		this.steerRight();
+		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context50011.adapt(agent, BAContext50011)
+Context50140 = new cop.Context({ 'name': "Context50140"})
+BAContext50140 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.steerRight();
+ 	}
+})
+Context50140.adapt(agent, BAContext50140)
+Context50141 = new cop.Context({ 'name': "Context50141"})
+BAContext50141 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.steerRight();
+		this.steerLeft();
+		this.steerRight();
+ 	}
+})
+Context50141.adapt(agent, BAContext50141)
+Context0040 = new cop.Context({ 'name': "Context0040"})
+BAContext0040 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.straight();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context0040.adapt(agent, BAContext0040)
+Context0041 = new cop.Context({ 'name': "Context0041"})
+BAContext0041 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context0041.adapt(agent, BAContext0041)
+Context10040 = new cop.Context({ 'name': "Context10040"})
+BAContext10040 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.straight();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context10040.adapt(agent, BAContext10040)
+Context10041 = new cop.Context({ 'name': "Context10041"})
+BAContext10041 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context10041.adapt(agent, BAContext10041)
+Context20040 = new cop.Context({ 'name': "Context20040"})
+BAContext20040 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.straight();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context20040.adapt(agent, BAContext20040)
+Context20041 = new cop.Context({ 'name': "Context20041"})
+BAContext20041 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context20041.adapt(agent, BAContext20041)
+Context30040 = new cop.Context({ 'name': "Context30040"})
+BAContext30040 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.straight();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context30040.adapt(agent, BAContext30040)
+Context30041 = new cop.Context({ 'name': "Context30041"})
+BAContext30041 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context30041.adapt(agent, BAContext30041)
+Context40030 = new cop.Context({ 'name': "Context40030"})
+BAContext40030 = Trait({
+    'option': function() {
+ 		this.straight();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context40030.adapt(agent, BAContext40030)
+Context40020 = new cop.Context({ 'name': "Context40020"})
+BAContext40020 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context40020.adapt(agent, BAContext40020)
+Context40040 = new cop.Context({ 'name': "Context40040"})
+BAContext40040 = Trait({
+    'option': function() {
+ 		this.speedUp();
+		this.speedUp();
+ 	}
+})
+Context40040.adapt(agent, BAContext40040)
+Context70040 = new cop.Context({ 'name': "Context70040"})
+BAContext70040 = Trait({
+    'option': function() {
+ 		this.slowDown();
+ 	}
+})
+Context70040.adapt(agent, BAContext70040)
