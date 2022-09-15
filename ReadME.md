@@ -1,10 +1,10 @@
 # Car Overtaking 
 
-This repository is **work in progress**, its purpose it to try out techniques to teaching a car to drive from previous manual drives.
+This repository contains the simulation environment for a driving assistant. The repository is **work in progress**, and in continuous evolution as its purpose it to try out techniques to teaching a car to drive from previous manual drives.
 
 ### What is this repository for? ###
 
-* Car driving (Initial learning car actions)
+* Driving simulation (Initial learning of car actions)
 * Analysis of car actions (Looking at the cvs files)
 
 ### Folder Layout
